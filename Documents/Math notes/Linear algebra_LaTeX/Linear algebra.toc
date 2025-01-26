@@ -1,0 +1,13 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Complex numbers}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Complex exponentiation}{4}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Roots of unity}{5}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Complex logarithms}{6}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Lines and circles}{6}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}Complex equation of a line}{6}{subsubsection.1.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.2}Complex equation of a circle}{6}{subsubsection.1.4.2}%
+\contentsline {section}{\numberline {2}Vectors}{7}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Definitions and properties}{7}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Scalar product}{8}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Cauchy-Schwarz Inequality}{9}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Vector product}{10}{subsection.2.4}%
