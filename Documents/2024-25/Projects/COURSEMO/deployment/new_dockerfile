@@ -1,0 +1,96 @@
+FROM ubuntu:24.04
+
+ARG TESSERACT_VERSION=5.5.0
+ARG TESSERACT_URL="https://api.github.com/repos/tesseract-ocr/tesseract/tarball/$TESSERACT_VERSION"
+
+# Install basic tools and Python dependencies
+RUN apt-get update && \
+    DEBIAN_FRONTEND=noninteractive \
+    TZ=Europe/London \
+    apt-get install -y tzdata
+
+RUN apt-get update && apt-get install --no-install-recommends --yes \
+    apt-transport-https \
+    asciidoc \
+    automake \
+    bash \
+    ca-certificates \
+    curl \
+    docbook-xsl \
+    g++ \
+    git \
+    libleptonica-dev \
+    libtool \
+    libicu-dev \
+    libpango1.0-dev \
+    libcairo2-dev \
+    libgl1 \          
+    libglib2.0-0 \    
+    libsm6 \          
+    libxext6 \         
+    libxrender1 \      
+    make \
+    pkg-config \
+    wget \
+    xsltproc \
+    python3.12-venv \
+    && rm -rf /var/lib/apt/lists/*
+# Install system build dependencies and CUDA support
+RUN apt-get update && apt-get install -y \
+    # Python development headers
+    python3.12-dev \
+    # Compilation tools
+    build-essential \
+    gcc \
+    g++ \
+    make \
+    # CUDA dependencies
+    nvidia-cuda-toolkit \
+    # Additional system libraries
+    libgl1 \
+    libglib2.0-0 \
+    libsm6 \
+    libxext6 \
+    libxrender1 \
+    # Headers for linking
+    libicu-dev \
+    libcairo2-dev \
+    libpango1.0-dev \
+    && rm -rf /var/lib/apt/lists/*
+
+WORKDIR /src
+
+RUN wget -qO tesseract.tar.gz $TESSERACT_URL && \
+    tar -xzf tesseract.tar.gz && \
+    rm tesseract.tar.gz && \
+    mv tesseract-* tesseract
+
+WORKDIR /src/tesseract
+
+RUN ./autogen.sh && \
+    ./configure && \
+    make && \
+    make install && \
+    ldconfig
+
+# Go to default traineddata directory
+WORKDIR /usr/local/share/tessdata/
+
+# Copy language script and list to image
+COPY get-languages.sh .
+COPY languages.txt .
+
+# Make script executable
+RUN chmod +x ./get-languages.sh
+# Download traineddata languages
+RUN ./get-languages.sh
+RUN apt-get update
+
+ENV PIP_BREAK_SYSTEM_PACKAGES=1
+RUN rm -f /usr/lib/python3.12/EXTERNALLY-MANAGED
+
+
+ENV LD_LIBRARY_PATH=/usr/local/cuda-12.4/lib64:$LD_LIBRARY_PATH \
+    CUDA_HOME=/usr/local/cuda-12.4 \
+    PATH=/usr/local/cuda-12.4/bin:$PATH
+

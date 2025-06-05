@@ -1,0 +1,111 @@
+UNIVERSITY OF CAMBRIDGE INTERNATIONAL EXAMINATIONS
+GCE Advanced Subsidiary Level and GCE Advanced Level
+MARK SCHEME for the October/November 2007 question paper
+9702 PHYSICS
+9702/05 Paper 5 (Planning, Analysis and Evaluation),
+maximum raw mark 30
+This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of
+the examination. It shows the basis on which Examiners were instructed to award marks. It does not
+indicate the details of the discussions that took place at an Examiners’ meeting before marking began.
+All Examiners are instructed that alternative correct answers and unexpected approaches in
+candidates’ scripts must be given marks that fairly reflect the relevant knowledge and skills
+demonstrated.
+Mark schemes must be read in conjunction with the question papers and the report on the
+examination.
+(cid:127) CIE will not enter into discussions or correspondence in connection with these mark schemes.
+CIE is publishing the mark schemes for the October/November 2007 question papers for most IGCSE,
+GCE Advanced Level and Advanced Subsidiary Level syllabuses and some Ordinary Level
+syllabuses.
+Page 2 Mark Scheme Syllabus Paper
+GCE A/AS LEVEL – October/November 2007 9702 5
+Question 1
+Planning (15 marks)
+Defining the problem (3 marks)
+P1 p is the independent variable or vary p. [1]
+P2 A is the dependent variable or determine A for different p. [1]
+P3 Keep the incident amplitude constant (allow volume of sound or power/intensity output).
+[1]
+Methods of data collection (5 marks)
+M1 Labelled diagram of a workable arrangement including source of sound – glass window
+– detector of sound. [1]
+Allowed sources: loudspeaker, bell, buzzer, siren but not musical instruments.
+Allowed detectors: microphone, sound meter, sound detector.
+M2 Method of measuring pressure. Use bourdon gauge/manometer or pressure gauge [1]
+Do not allow barometer or pressure meter.
+M3 Method of reducing pressure. Use (vacuum) pump to withdraw air from glass
+window. [1]
+M4 Method of measuring amplitude. Measure amplitude from oscilloscope. [1]
+M5 Perform experiment in quiet room. [1]
+Method of analysis (2 marks)
+A1 Appropriate quantities plotted i.e. A2 against p; or lg A against lg p or A against √p. [1]
+A2 Relationship to be correct i.e. graph is a straight line through the origin. [1]
+Gradient should equal 0.5 if lg A against lg p plotted.
+An explicit statement is required.
+Safety considerations (1 mark)
+S1 Relevant safety precaution related to either the use of glass or intensity of sound, [1]
+e.g. wear ear defenders, switch on sound source for short period of time.
+Protection (goggles/safety screen) in case glass breaks.
+Awareness of low pressures in glass.
+Do not allow gloves because glass is sharp.
+© UCLES 2007
+Page 3 Mark Scheme Syllabus Paper
+GCE A/AS LEVEL – October/November 2007 9702 5
+Additional detail (4 marks).
+D1/2/3/4 Relevant points might include: [4]
+Method of ensuring that output from speaker is constant.
+Method of reducing sound reflections from e.g. foam/speaker & microphone
+close to glass.
+Window perpendicular to sound source.
+Detail explaining use of oscilloscope to measure amplitude.
+Difficulty in measuring amplitude at small pressures/use a loud incident source.
+Control (or monitoring) of one additional variable e.g. temperature, frequency,
+distances.
+Allow time for the temperature/pressure between the glass to stabilise.
+Discussion of attenuation in air/frame/glass.
+[Total: 15]
+© UCLES 2007
+Page 4 Mark Scheme Syllabus Paper
+GCE A/AS LEVEL – October/November 2007 9702 5
+Question 2
+Analysis, conclusions and evaluation (15 marks)
+Approach to data analysis (1 mark)
+(a) lg I = n lg V + lg k
+Relationship confirmed by straight line. [1]
+Table of results (2 marks)
+(b) Correct column of lg (V/V). [1]
+Correct column of lg (I/A) [1]
+lg (V/V) lg (I/A)
+0.301 or 0.30 0.079 or 0.08
+0.602 or 0.60 0.230 or 0.23
+0.778 or 0.78 0.322 or 0.32
+0.903 or 0.90 0.380 or 0.38
+1.000 or 1.00 0.431 or 0.43
+1.079 or 1.08 0.477 or 0.48
+2 or 3 dp needed (except allow 4 dp for last two rows in lg V).
+Allow small rounding errors in the 3 dp. Must be exact for 2 dp.
+Graph (3 marks)
+(c) (i) Points plotted correctly. All six required for this mark. Circle error(s). [1]
+(ii) Line of best-fit. Must be within tolerances. [1]
+Worst acceptable straight line. Line should be clearly labelled. [1]
+Conclusion (4 marks)
+(iii) Gradient of best-fit line (range 0.500 to 0.525 or check substitution). [1]
+If points incorrect, then check size of ∆ and substitution within half a small
+square.
+(iv) y-intercept. Must be negative. Check substitution from point on best-fit line. [1]
+(d) Method of determining k (= 10candidate’s y-intercept ). [1]
+Value of n = candidate’s gradient value and in the range 0.500 to 0.525. [1]
+Answers to k and n should be to 2 or 3 sf.
+© UCLES 2007
+Page 5 Mark Scheme Syllabus Paper
+GCE A/AS LEVEL – October/November 2007 9702 5
+Treatment of errors (5 marks)
+(b) Errors in lg I allow 2 or 3 dp. [1]
+Values should descend from 0.04 to 0.01.
+(c) (i) Error bars in lg I plotted correctly [1]
+(iii) Error in gradient [1]
+Method of determining absolute error
+(iv) Error in y-intercept [1]
+Method of determining absolute error
+(d) Method for error in k and error in n (same as error in gradient) [1]
+[Total: 15]
+© UCLES 2007

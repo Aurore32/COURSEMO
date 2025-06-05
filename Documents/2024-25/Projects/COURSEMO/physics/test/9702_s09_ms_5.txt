@@ -1,0 +1,127 @@
+UNIVERSITY OF CAMBRIDGE INTERNATIONAL EXAMINATIONS
+GCE Advanced Subsidiary Level and GCE Advanced Level
+MARK SCHEME for the May/June 2009 question paper
+for the guidance of teachers
+9702 PHYSICS
+9702/05 Paper 5 (Planning, Analysis and Evaluation),
+maximum raw mark 30
+This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of
+the examination. It shows the basis on which Examiners were instructed to award marks. It does not
+indicate the details of the discussions that took place at an Examiners’ meeting before marking began,
+which would have considered the acceptability of alternative answers.
+Mark schemes must be read in conjunction with the question papers and the report on the
+examination.
+(cid:127) CIE will not enter into discussions or correspondence in connection with these mark schemes.
+CIE is publishing the mark schemes for the May/June 2009 question papers for most IGCSE, GCE
+Advanced Level and Advanced Subsidiary Level syllabuses and some Ordinary Level syllabuses.
+Page 2 Mark Scheme: Teachers’ version Syllabus Paper
+GCE A/AS LEVEL – May/June 2009 9702 05
+1 Planning (15 marks)
+Defining the problem (3 marks)
+P1 Vary l or l is the independent variable [Allow M] [1]
+P2 Determine the period T (for each l [M]) or T is the dependent variable [1]
+P3 M is kept constant [l is kept constant] [1]
+Methods of data collection (5 marks)
+M1 Diagram showing the cantilever is fixed e.g. g-clamp & bench, retort stand & clamp [1]
+M2 Many oscillations repeated to determine average T (n [ 10 or t [ 10 s for stopwatch) [1]
+M3 Weigh M using balance [1]
+M4 Measure w and d and measure/record l [1]
+M5 Use of vernier caliper/micrometer to measure d and/or w [1]
+Method of analysis (2 marks)
+A1 Appropriate graph plotted i.e. T 2 against l 3 ; [T 2 against M] or lg T against lg l or lg M [1]
+16π2M k 16π2l3
+A2 E = = E =
+wd3×gradient gradient wd3×gradient
+k k
+E = =
+Allow logarithmic solutions e.g. [1]
+102xy-intercept 100y-intercept
+Safety considerations (1 mark)
+S1 Relevant safety precaution related to the use of loads [1]
+e.g. cushion/sand in case load falls, keep feet away, keep distance from experiment.
+Additional detail (4 marks)
+D Relevant points might include [4]
+1. Use same rule or keep w and/or d constant.
+2. Repeat measurements of d and/or w along rule and average.
+3. Discussion of use of motion sensor e.g. orientation or light gates with detail.
+4. Use small amplitude or small angle oscillations (to ensure equation is valid).
+5. Method of securing load to rule e.g. with tape/glue.
+6. Discussion of magnitude of load: large enough to make T large enough.
+7. Use of fiducial marker to help to time.
+8. Start timing after oscillations have settled.
+Do not allow vague use of computers/light gates, video cameras, dataloggers.
+[Total: 15]
+© UCLES 2009
+Page 3 Mark Scheme: Teachers’ version Syllabus Paper
+GCE A/AS LEVEL – May/June 2009 9702 05
+2 Analysis, conclusions and evaluation (15 marks)
+Part Mark Expected Answer Additional Guidance
+(a) A1 gradient = q
+y-intercept = lg p or log p
+(b) T1 1.176 or 1.18 0.415 or 0.41 T1 is awarded for correct values lg d
+T2 1.279 or 1.28 0.544 or 0.54 T2 is awarded for correct values lg I
+1.362 or 1.36 0.643 or 0.64 A mixture of 2dp and 3dp is allowed within
+1.431 or 1.43 0.732 or 0.73 each column
+1.491 or 1.49 0.806 or 0.81
+E1 ± 0.016 or ± 0.017 or ± 0.02 Allow more than one significant figures.
+decreasing to ± 0.006 or ± 0.007
+or ± 0.01
+(c) (i) G1 Five points plotted correctly Must be within half a small square. Use
+transparency. Ecf allowed from table.
+E2 Error bars in lg I plotted correctly. Check first and last point. Must be accurate
+within half a small square. Ecf allowed from
+table.
+(ii) G2 Line of best fit If points are plotted correctly then lower end
+of line should pass between (1.15, 0.370) and
+(1.15, 0.385) and upper end of line should
+pass between (1.50, 0.815) and (1.50, 0.825).
+Allow ecf from points plotted incorrectly –
+examiner judgement.
+G3 Worst acceptable straight line. Line should be clearly labelled or dashed.
+Steepest or shallowest possible Should pass from top of top error bar to
+line that passes through all the bottom of bottom error bar or bottom of top
+error bars. error bar to top of bottom error bar. Mark
+scored only if error bars are plotted.
+(iii) C1 Gradient of best fit line The triangle used should be greater than half
+the length of the drawn line. Check the “read
+offs”. Work to half a small square. Do not
+penalise POT.
+E3 Error in gradient Method of determining absolute error
+Difference in worst gradient and gradient.
+(iv) C2 y-intercept Must be negative and the gradient must be
+used. Check substitution into c = y – mx.
+Allow ecf from (c)(iii).
+If gradient within range given, then y-intercept
+should be about –1.1
+E4 Method of determining error in Determines worst y-intercept using worst
+y-intercept gradient and finds difference.
+Check substitution but do not check
+calculation.
+Do not allow ecf from false origin read-off.
+© UCLES 2009
+Page 4 Mark Scheme: Teachers’ version Syllabus Paper
+GCE A/AS LEVEL – May/June 2009 9702 05
+(d) C3 p = 10candidate’s y-intercept p should be about 0.08. Allow ecf from
+(c)(iv).
+If FO used then p should be about 2.34 to
+2.43.
+C4 q = in the range 1.20–1.30 and Candidate’s gradient must be used.
+given to 2 or 3 sf.
+E5 Method for determining errors in Determines worst p using worst y-intercept
+values of p and q. and finds difference. Allow ecf from (c)(iv).
+q error must be same as error in gradient.
+[Total: 15]
+Uncertainties in Question 2
+(c) (iii) Uncertainty in gradient [E3]
+1. Uncertainty = gradient of line of best fit – gradient of worst acceptable line
+2. Uncertainty = ½ (steepest worst line gradient – shallowest worst line gradient)
+(c) (iv) Uncertainty in the y-intercept [E4]
+1. Uncertainty = y-intercept of line of best fit – y-intercept of worst acceptable line
+2. Uncertainty = ½ (steepest worst line y-intercept – shallowest worst line y-intercept)
+N.B. Must use gradient from worst acceptable line and a point on the same worst acceptable line
+to determine y-intercept of worst acceptable line.
+(d) Uncertainty in p [E5]
+1. Uncertainty = p from y-intercept of BFL – p from y-intercept of WAL
+2. Uncertainty = ½ (p from y-intercept of shallowest WAL – p from y-intercept of steepest
+WAL)
+© UCLES 2009

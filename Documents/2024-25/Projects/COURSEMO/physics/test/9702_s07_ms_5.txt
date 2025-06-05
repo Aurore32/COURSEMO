@@ -1,0 +1,126 @@
+UNIVERSITY OF CAMBRIDGE INTERNATIONAL EXAMINATIONS
+GCE Advanced Subsidiary Level and GCE Advanced Level
+MARK SCHEME for the May/June 2007 question paper
+9702 PHYSICS
+9702/05 Paper 5 (Planning, Analysis and Evaluation),
+maximum raw mark 30
+This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of
+the examination. It shows the basis on which Examiners were instructed to award marks. It does not
+indicate the details of the discussions that took place at an Examiners’ meeting before marking began.
+All Examiners are instructed that alternative correct answers and unexpected approaches in
+candidates’ scripts must be given marks that fairly reflect the relevant knowledge and skills
+demonstrated.
+Mark schemes must be read in conjunction with the question papers and the report on the
+examination.
+(cid:127) CIE will not enter into discussions or correspondence in connection with these mark schemes.
+CIE is publishing the mark schemes for the May/June 2007 question papers for most IGCSE, GCE
+Advanced Level and Advanced Subsidiary Level syllabuses and some Ordinary Level syllabuses.
+Page 2 Mark Scheme Syllabus Paper
+GCE A/AS LEVEL – May/June 2007 9702 05
+1 Planning (15 marks)
+Defining the problem (3 marks)
+P1 r is the independent variable or vary r (accept diameter but not mass or size). [1]
+P2 v is the dependent variable or determine v (accept speed) [1]
+P3 A controlled variable – accept temperature, [1]
+distance when time is measured, or time when distance measured.
+Do not accept volume/height of oil.
+Methods of data collection (5 marks)
+M1 Diagram of a workable arrangement including a deep container of oil, ball and some
+measurement indicated for either time or distance. [1]
+M2 Measure diameter by using a micrometer (screw gauge)/vernier callipers (and halving to obtain
+radius). Accept from diagram. Accept travelling microscope. [1]
+M3 Measure the time for the ball to fall a set distance in oil (or distance for a set time). [1]
+M4 Measure the (constant) distance fallen (constant time) and show how v is calculated. [1]
+M5 Evidence that ball has reached terminal velocity (e.g. starting mark well below surface of oil) [1]
+Reject equations of uniform acceleration ideas.
+Method of analysis (2 marks)
+A1 Plot a graph of v against r2 or logarithmic equivalent. [1]
+A2 Relationship is correct if graph is a straight line through the origin. [1]
+An explicit statement is required.
+If lg v against lg r is plotted gradient should equal 2.
+Safety considerations (1 mark)
+S1 Relevant safety precaution related to the oil, [1]
+e.g. mop up spillages of oil/wear gloves with reason/keep away from flames.
+Do not accept vague answers e.g. goggles/spills/washing hands but allow credit for detailed
+reasoning e.g. drop ball near surface to avoid splashing.
+Additional detail (4 marks)
+D1/2/3/4 Relevant points might include: [4]
+Allow oil to stand so that air bubbles escape/ball may trap air bubbles.
+Wash and dry steel balls/handle steel balls with tweezers/gloves.
+Distance marks should be as far apart as possible or use long tube.
+Large distance to reduce percentage uncertainty.
+Wide tube to reduce edge effects/method to keep long tube vertical.
+Discussion of parallax for stop watch methods.
+Method of ensuring that terminal velocity has been reached.
+Retrieve steel balls using a magnet.
+Use clear oil.
+Repeat diameter measurements and average.
+An additional variable kept constant.
+[Total: 15]
+© UCLES 2007
+Page 3 Mark Scheme Syllabus Paper
+GCE A/AS LEVEL – May/June 2007 9702 05
+2 Analysis, conclusions and evaluation (15 marks)
+Approach to data analysis (1 mark)
+ρl2
+(a) R = +R and a correct comment.
+V 0
+This mark is not scored for R being proportional to l2 . [1]
+Table of results (2 marks)
+(b) Column heading for
+l2
+. Allow
+l2
+/
+cm2
+and
+l2 (cm2
+) (or equivalent units). [1]
+(b) Values of
+l2
+. [1]
+36, 100, 196, 324, 484, 676
+st
+3 significant figures needed (except 1 row). Allow 4sf. All correct for one mark.
+Graph (3 marks)
+(c) (i) Points plotted correctly. [1]
+All six required for this mark and must be Ğ half a small square. Indicate an error.
+Ecf from (b)
+(c) (ii) Line of best fit. [1]
+Must be within tolerances. Do not allow a line forced through the origin.
+(c) (iii) Worst acceptable straight line. [1]
+Must be within tolerances. Line should be clearly labelled. Allow broken line.
+Conclusion (4 marks)
+(c) (iii) gradient of best-fit line [1]
+Gradient should be in the range 0.550 to 0.560.
+If (b) and/or (c)(i) and/or (ii) are incorrect then the triangle used should be greater than
+half the length of the drawn line. Check the read offs and ratio to be correct. Work to
+half a small square.
+(d) Value of ρ
+Candidate’s gradient value = ρ/V. May be implicit from working. [1]
+ρ in range 10.3 -10.6 [1]
+(d) Unit of ρ. Must be consistent with previous answer e.g. Ω cm [1]
+© UCLES 2007
+Page 4 Mark Scheme Syllabus Paper
+GCE A/AS LEVEL – May/June 2007 9702 05
+Treatment of errors (5 marks)
+(b) Errors in
+l2
+[1]
+± 4.6 – 5.0
+± 7.8 – 8.2
+± 11.0 – 11.4
+± 14.2 - 14 or 15
+± 17 or 18
+± 20 or 21
+(c) (i) error bars in
+l2
+plotted correctly [1]
+Must be within tolerances. For ecf check first and last point
+(c) (iii) error in gradient [1]
+Check method e.g. gradient of best-fit line – gradient of worst acceptable line
+(d) correct method for determining error in ρ (e.g. (worst gradient × volume) - ρ) [1]
+Value for error in ρ in the range ± 0.4 to ± 0.6. [1]
+Last mark is zero if vertical error bars plotted or wrong worst acceptable line plotted.
+[Total: 15]
+© UCLES 2007

@@ -1,0 +1,9 @@
+{
+    "build": {
+        "dockerfile": "../Dockerfile.dev"
+    },
+    "runArgs": [
+        "--gpus",
+        "all"
+    ]
+}

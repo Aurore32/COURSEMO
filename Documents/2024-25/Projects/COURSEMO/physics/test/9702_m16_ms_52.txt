@@ -1,0 +1,117 @@
+CAMBRIDGE INTERNATIONAL EXAMINATIONS
+Cambridge International Advanced Subsidiary and Advanced Level
+MARK SCHEME for the March 2016 series
+9702 PHYSICS
+9702/52 Paper 5 (Planning, Analysis and Evaluation),
+maximum raw mark 30
+This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of
+the examination. It shows the basis on which Examiners were instructed to award marks. It does not
+indicate the details of the discussions that took place at an Examiners’ meeting before marking began,
+which would have considered the acceptability of alternative answers.
+Mark schemes should be read in conjunction with the question paper and the Principal Examiner
+Report for Teachers.
+Cambridge will not enter into discussions about these mark schemes.
+®
+Cambridge is publishing the mark schemes for the March 2016 series for most Cambridge IGCSE
+and Cambridge International A and AS Level components.
+® IGCSE is the registered trademark of Cambridge International Examinations.
+Page 2 Mark Scheme Syllabus Paper
+Cambridge International AS/A Level – March 2016 9702 52
+1 Planning (15 marks)
+Defining the problem (2 marks)
+P k is the independent variable and h is the dependent variable, or vary k, measure h. [1]
+P Keep mass of object constant. [1]
+Methods of data collection (4 marks)
+M Labelled diagram (minimum two labels) showing object (mass) attached to cord and other
+end of cord fixed (e.g. stand and clamp or hook) and rule(r) drawn vertically next to cord. [1]
+M Method of measuring mass e.g. balance/scales. [1]
+M k = (weight or force)/extension or mg/extension; allow graphical methods.
+Allow any subject e.g. mg = k × extension. [1]
+M Use of rule to measure h or maximum distance/length (fallen by the object).
+Allow clear indication on diagram (i.e. dotted lines) linking distance h to rule.
+Do not credit length of cord. [1]
+Method of analysis (3 marks)
+( h−L)2
+(cid:1) Plot a graph of against 1/k [Allow 2/k or 2m/k or m/k] [1]
+h
+(cid:1) g = gradient/2m [gradient/m or gradient or gradient/2] [1]
+(cid:1) Relationship is valid if the graph is a straight line passing through the origin. [1]
+Additional detail (6 marks)
+D Relevant points [6]
+1 Keep starting point constant/drop object from same position/use of electromagnet to drop
+object/ensure mass is dropped from fixed point/check object falls vertically
+2 Rule(r) fixed e.g. retort stand
+3 Method to determine extension, e.g. measure length of stretched cord and subtract original
+length/50.0cm. [Accept from a diagram]
+4 Safety precaution linked to prevention of mass/cord hitting a person – use safety
+screen/goggles; sand tray to catch falling object if cord breaks
+5 Trial experiment to locate approximate point of h/to prevent object hitting surface
+6 Detailed use of video camera with slow motion or frame by frame playback/motion sensor
+clearly explained
+7 Cord obeys Hooke’s law or must not exceed elastic limit
+8 Use set square to ensure ruler is vertical
+9 For each cord, repeat experiment determine average h
+Do not allow vague computer methods.
+[Total: 15 marks]
+© Cambridge International Examinations 2016
+Page 3 Mark Scheme Syllabus Paper
+Cambridge International AS/A Level – March 2016 9702 52
+2 Analysis, conclusions and evaluation (15 marks)
+Part Mark Expected Answer
+(a) A1 c ∆θ
+Gradient = m
+P
+m c ∆θ +k
+y-intercept = w w
+P
+(b) T1 Column heading m /g
+m
+100
+200
+300
+400
+500
+600
+U1 From ± 10 to ± 60
+(c)(i) G1 Six points plotted correctly
+U2 Error bars in m plotted correctly
+m
+(ii) G2 Line of best fit
+G3 Worst acceptable straight line.
+Steepest or shallowest possible line that passes through all the
+error bars.
+(iii) C1 Gradient of best fit line
+U3 Difference in worst gradient and gradient.
+(iv) C2 y-intercept
+U4 Uncertainty in y-intercept
+(d)(i) C3 c in the range 470 to 530 and given to 2 or 3sf
+m
+C4 k =y-intercept x P – m c ∆θ
+w w
+k =y-intercept x 50 – 21000
+C5 Units for c and k
+m
+(ii) U5 Percentage uncertainty in C
+m
+[Total: 15 marks]
+© Cambridge International Examinations 2016
+Page 4 Mark Scheme Syllabus Paper
+Cambridge International AS/A Level – March 2016 9702 52
+Uncertainties in Question 2
+(c) (iii) Gradient [U3]
+1 Uncertainty = gradient of line of best fit – gradient of worst acceptable line
+2 Uncertainty = ½ (steepest worst line gradient – shallowest worst line gradient)
+(iv) [U4]
+1 Uncertainty = y-intercept of line of best fit – y-intercept of worst acceptable line
+2 Uncertainty = ½ (steepest worst line y-intercept – shallowest worst line y-intercept)
+(d) (ii) [U5]
+∆gradient 5 0.5 ∆gradient
+1 %uncertainty = + + x100= x100+12.5%
+ gradient 50 20   gradient 
+maxgradient x max power maxgradient x 55
+2 maxc = =
+m mintemperature change 19.5
+mingradient x min power mingradient x45
+3 minc = =
+m maxtemperature change 20..5
+© Cambridge International Examinations 2016

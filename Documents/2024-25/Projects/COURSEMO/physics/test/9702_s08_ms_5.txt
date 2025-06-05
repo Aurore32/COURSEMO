@@ -1,0 +1,104 @@
+UNIVERSITY OF CAMBRIDGE INTERNATIONAL EXAMINATIONS
+GCE Advanced Subsidiary Level and GCE Advanced Level
+MARK SCHEME for the May/June 2008 question paper
+9702 PHYSICS
+9702/05 Paper 5 (Planning, Analysis and Evaluation),
+maximum raw mark 30
+This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of
+the examination. It shows the basis on which Examiners were instructed to award marks. It does not
+indicate the details of the discussions that took place at an Examiners’ meeting before marking began.
+All Examiners are instructed that alternative correct answers and unexpected approaches in
+candidates’ scripts must be given marks that fairly reflect the relevant knowledge and skills
+demonstrated.
+Mark schemes must be read in conjunction with the question papers and the report on the
+examination.
+(cid:127) CIE will not enter into discussions or correspondence in connection with these mark schemes.
+CIE is publishing the mark schemes for the May/June 2008 question papers for most IGCSE, GCE
+Advanced Level and Advanced Subsidiary Level syllabuses and some Ordinary Level syllabuses.
+Page 2 Mark Scheme Syllabus Paper
+GCE A/AS LEVEL – May/June 2008 9702 05
+1 Planning (15 marks)
+Defining the problem (3 marks)
+P1 A is the independent variable or vary A. [1]
+P2 R is the dependent variable or determine R for different A. [1]
+P3 Keep the temperature (of glass) constant. Do not allow “controlled variable”. [1]
+Methods of data collection (5 marks)
+M1 Basic circuit diagram. [1]
+Ammeter and voltmeter with power supply, or
+ohmmeter without power supply, or
+bridge methods.
+M2 Correct orientation of glass between electrodes – largest cross-sectional area. [1]
+M3 A distance (thickness) measured using a micrometer/vernier scale/vernier callipers. [1]
+M4 Method of determining area perpendicular to current flow. [1]
+Distances measured and multiplied together.
+This mark may only be scored if it is clear that the correct dimensions are being used.
+M5 Method of determining resistance. [1]
+Ohmmeter.
+R = V/I justified.
+Description of balancing bridge with correct equation.
+Method of analysis (2 marks)
+A1 A2
+R against 1/A ρ = gradient/l
+R against l /A ρ = gradient
+1/A against R or 1/R against A ρ = 1/(gradient × l)
+l /A against R or l /R against A ρ = 1/gradient
+lg R against lg A ρ = 10l × y-intercept
+[2]
+Safety considerations (1 mark)
+S1 Relevant safety precaution related to: [1]
+EHT power supply (>100 V) – switch off before changing circuit/use of rubber gloves;
+or handling glass – wear (thick) gloves.
+Additional detail (4 marks)
+D1/2/3/4 Relevant points might include [4]
+Calculation of typical resistance of glass using value of resistivity given.
+Range of ammeter or ohmmeter with reasoning.
+Use of EHT or power supply >1000 V or microammeter/galvanometer.
+Take many readings of thickness and average.
+Good contact between circuit and glass e.g. metal plates, foil, conducting putty.
+Metal plates/foil/conducting putty to cover all of the cross-sectional area in use.
+Method of securing good contact between circuit and glass, e.g. g clamps, weights.
+Clean/dry the glass.
+[Total: 15]
+© UCLES 2008
+Page 3 Mark Scheme Syllabus Paper
+GCE A/AS LEVEL – May/June 2008 9702 05
+2 Analysis, conclusions and evaluation (15 marks)
+(a) gradient = –ρη
+y-intercept = ln R
+0
+or log
+e
+R
+0
+[1]
+(b)
+ln (R / s–1 ) Errors in ln R
+6.620 or 6.62 ± 0.02 – 0.03
+6.363 or 6.36 ± 0.03
+6.064 or 6.06 ± 0.05
+5.799 or 5.80 ± 0.06
+5.521 or 5.52 ± 0.08
+5.247 or 5.25 ± 0.10 – 0.11
+Column heading for ln (R); ln R calculated. All correct for one mark. [1]
+2 or 3 dp scores one mark as shown. [1]
+Errors in ln R: Ignore no. of sf in errors. [1]
+(c) (i) Points plotted correctly. All six within half a small square required for this mark. [1]
+Error bars in ln R plotted correctly. Check x = 0.0300 m. Allow ecf. [1]
+(ii) Line of best fit. Must be within tolerances. [1]
+Worst acceptable straight line. Line should be clearly labelled. [1]
+(iii) Gradient of best-fit line. Must be negative. [1]
+Award this mark if in range –54.0 to –56.0.
+If out of range, check the read offs. Work to half a small square.
+The triangle used should be greater than half the length of the drawn line.
+Error in gradient [1]
+Method of determining absolute error. Expect to see difference between gradient
+from best-fit line and the worst acceptable line correctly evaluated.
+(d) Value of η [1]
+Award mark for method η = candidate’s gradient/11300 evaluated.
+Error in η [1]
+Method of determining absolute error.
+Unit of η : m2 kg–1 . [1]
+(e) Value of x in the range 0.0410 m to 0.0425 m [1]
+If x in the range 0.0410 m to 0.0425 m, then method of determining error in x. [1]
+[Total: 15]
+© UCLES 2008

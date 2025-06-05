@@ -1,0 +1,2482 @@
+,Question,Answer
+0,"Defining the problem (2 marks)  
+P k is the independent variable and \( h \) is the dependent variable, or vary \( k \), measure \( h \). [1]  
+P Keep mass of object constant. [1]  
+
+Methods of data collection (4 marks)  
+M Labelled diagram (minimum two labels) showing object (mass) attached to cord and other end of cord fixed (e.g. stand and clamp or hook) and ruler drawn vertically next to cord. [1]  
+M Method of measuring mass e.g. balance/scales. [1]  
+M \( k = \frac{\text{weight}}{\text{extension}} \) or \( k = \frac{mg}{\text{extension}} \); allow graphical methods. Allow any subject e.g. \( mg = k \times \text{extension} \). [1]  
+M Use of rule to measure \( h \) or maximum distance fallen by the object. Allow clear indication on diagram (i.e. dotted lines) linking distance \( h \) to rule. [1]  
+
+Method of analysis (3 marks)  
+• Plot a graph of \( \frac{(h - L)^2}{h} \) against \( \frac{1}{k} \) [Allow \( \frac{2}{k} \) or \( \frac{2m}{k} \) or \( \frac{m}{k} \)] [1]  
+• \( g = \frac{\text{gradient}}{2m} \) [gradient/\( m \) or gradient or gradient/2] [1]  
+• Relationship is valid if the graph is a straight line passing through the origin. [1]  
+
+Additional detail (6 marks)  
+1 Keep starting point constant/drop object from same position/use of electromagnet to drop object/ensure mass is dropped from fixed point/check object falls vertically  
+2 Ruler fixed e.g. retort stand  
+3 Method to determine extension, e.g. measure length of stretched cord and subtract original length/50.0 cm  
+4 Safety precaution linked to prevention of mass/cord hitting a person – use safety screen/goggles; sand tray to catch falling object if cord breaks  
+5 Trial experiment to locate approximate point of \( h \)/to prevent object hitting surface  
+6 Detailed use of video camera with slow motion or frame by frame playback/motion sensor clearly explained  
+7 Cord obeys Hooke’s law or must not exceed elastic limit  
+8 Use set square to ensure ruler is vertical  
+9 For each cord, repeat experiment determine average \( h \)","A student is interested in ‘bungee jumping’, where a person attached to an elastic cord falls from a height and travels downwards through a distance before moving upwards. Different cords are used for different people. A schematic diagram is shown in Fig. 1.1.  
+
+The student models ‘bungee jumping’ in the laboratory by using elastic cords of unstretched length 50.0 cm with different spring constants. An object is attached to each cord.  
+The student investigates the relationship between the maximum distance \( h \) fallen by the object and the spring constant \( k \) of the elastic cord.  
+It is suggested that the relationship between \( h \) and \( k \) is  
+\[ k(h - L)^2 = mgh \]  
+where \( L \) is the unstretched length of the cord, \( m \) is the mass of the object and \( g \) is the acceleration of free fall.  
+Design a laboratory experiment to test the relationship between \( h \) and \( k \).  
+Explain how your results could be used to plot a graph with \( \frac{(h - L)^2}{h} \) on the \( y \)-axis and to determine the value of \( g \). You should draw a diagram showing the arrangement of your equipment.  
+In your account you should pay particular attention to  
+• the procedure to be followed,  
+• the measurements to be taken,  
+• the control of variables,  
+• the analysis of the data,  
+• any safety precautions to be taken."
+1,"1. Defining the problem  
+- \(M\) is the independent variable and \(v\) is the dependent variable, or vary \(M\) and measure \(v\)  
+- Keep \(x\)/compression of spring constant  
+
+2. Methods of data collection  
+- Labelled diagram including horizontal spring in line with vehicle attached to wall/retort stand  
+- Use a ruler/calliper to determine compression of spring  
+- Use of stopwatch/light gate connected to timer/motion sensor correctly positioned  
+- Use of balance to measure mass of vehicle \(M\)  
+
+3. Method of Analysis  
+- Plot a graph of \(1/v^2\) against \(M\) (Do not allow log-log graphs)  
+- Relationship valid if a straight line produced  
+- \(k = \frac{1}{\text{gradient} \times x^2}\) or \(k = \frac{b}{\text{y-intercept} \times x^2}\)  
+
+4. Additional detail including safety considerations  
+- Use safety screen; goggles to avoid ball/spring hitting eye  
+- Add masses to vehicle to change \(M\)  
+- Repeat experiment for each \(M\) and average \(v\)  
+- Use ruler to measure distance for stopwatch/light gate timing  
+- Determine speed via \(v = \frac{\text{distance}}{\text{time}}\)  
+- Guide/support for spring/ball release  
+- Release ball close to vehicle  
+- Determine \(x\) as difference between compressed and original spring length  
+- Ensure constant speed via friction-compensated track/air track  
+- Straight line implies intercept \(= \frac{b}{k x^2}\)","1 A student is investigating the speed of a vehicle on a track when a small ball is projected into the vehicle, as shown in Fig. 1.1.
+
+vehicle  
+ball  
+track  
+
+Fig. 1.1  
+
+The ball is projected towards the vehicle by a compressed spring. It is suggested that the relationship between the speed \(v\) of the vehicle and its mass \(M\), after the ball embeds itself in the vehicle, is  
+
+\[
+k x^2 = (M + b) v^2
+\]  
+
+where \(b\) is the mass of the ball, \(k\) is the spring constant and \(x\) is the compression of the spring.  
+
+Design a laboratory experiment to test the relationship between \(v\) and \(M\). Explain how your results could be used to plot a graph with \(1/v^2\) on the \(y\)-axis and to determine a value for \(k\). You should draw a diagram, on page 3, showing the arrangement of your equipment.  
+
+In your account you should pay particular attention to  
+- the procedure to be followed  
+- the measurements to be taken  
+- the control of variables  
+- the analysis of the data  
+- any safety precautions to be taken.  
+
+[15]"
+2,"Defining the problem  
+d is the independent variable and e is the dependent variable, or vary d and measure e.  
+Keep F constant.  
+
+Methods of data collection  
+Labelled workable diagram including elastic cord fixed at one end to a support and load attached to the other end.  
+Cord and weight must be labelled.  
+Use of ruler to measure unstretched length and stretched length.  
+or labelled ruler drawn parallel to cord and original length L and either e or stretched length indicated.  
+Use of a micrometer / (calipers) to determine d.  
+Weigh load on a balance or use of balance to measure mass of load and multiply by \( g \).  
+
+Method of Analysis  
+Plots a graph of \( e \) against \( \frac{1}{d^2} \) or equivalent.  
+Relationship valid if a straight line passing through the origin is produced.  
+\( E = \frac{4FL}{\text{gradient} \times \pi} \).  
+
+Additional detail including safety considerations  
+Use safety goggles / safety screen to prevent injury to eyes from (moving) elastic cord / load or use cushion / sand box in case load falls.  
+Keep \( L \) constant.  
+Method to keep \( L \) constant, e.g. check length of each cord / adjust through cork.  
+Additional detail on measuring \( e \), e.g. record initial position, record final position and subtract.  
+Repeat measurement of \( d \) along cord / different diameters and average.  
+Method to ensure Hooke’s law is obeyed, e.g. check that the length is constant after removing load or do not exceed elastic limit.  
+Wait for cord to extend to its maximum value / stop oscillating.  
+Use of \( A = \frac{\pi d^2}{4} \).  
+Use of set square to check that ruler is vertical to bench, or use of set square as a fiducial mark to read measurements.","A student is investigating how the extension \( e \) of an elastic cord depends on the diameter \( d \) of the cord when a force is applied.  
+
+The student has a number of elastic cords of the same material with different diameters. The elastic cords have circular cross-sections. Each cord has an unstretched length of approximately 50 cm.  
+
+It is suggested that the extension \( e \) and the cross-sectional area \( A \) of the cord are related by the expression  
+
+\[
+\frac{FL}{Ae} = E
+\]  
+
+where \( E \) is the Young modulus of the material of the cord, \( F \) is the force applied and \( L \) is the unstretched length of the cord.  
+
+Design a laboratory experiment to test the relationship between \( e \) and \( d \). Explain how your results could be used to determine a value for \( E \).  
+
+You should draw a diagram showing the arrangement of your equipment. In your account you should pay particular attention to  
+- the procedure to be followed,  
+- the measurements to be taken,  
+- the control of variables,  
+- the analysis of the data,  
+- any safety precautions to be taken."
+3,"1. **Defining the problem**  
+   - \( R \) is the independent variable and \( T \) is the dependent variable, or vary \( R \) and measure \( T \).  
+   - Keep \( C \) constant.  
+
+2. **Methods of data collection**  
+   - Labelled diagram or correct symbols of workable circuit including:  
+     - (d.c.) power supply correctly positioned.  
+     - (neon) lamp correctly positioned.  
+   - Circuit diagram to determine resistance of resistors e.g. using ammeter and voltmeter OR ohmmeter.  
+   - Method to determine period or \( T \), e.g. use a stopwatch / timer / oscilloscope.  
+   - Circuit diagram showing voltmeter(s) or oscilloscope(s) to determine \( V_i \) and \( V_F \).  
+
+3. **Method of Analysis**  
+   - Plot a graph of \( T \) against \( R \).  
+   - Gradient \( = RCK \).  
+   - \( K = \frac{\text{gradient}}{C} \).  
+   - \( V_L = V_i - (V_i - V_F)e^{K} = V_i - (V_i - V_F)e^{C} \).  
+
+4. **Additional detail including safety considerations**  
+   - Switch off (high voltage) circuit / wear insulating gloves.  
+   - Resistance of resistors linked to diagram is \( \frac{V}{I} \) or from ohmmeter.  
+   - Input voltage \( V_i \) is constant.  
+   - Repeat experiment for each \( R \) and average \( T \).  
+   - Use \( 90\,\text{V} \) (or larger) power supply.  
+   - For stopwatch: time 10+ flashes and divide by number.  
+   - Record capacitance from capacitor or determine \( C \).  
+   - Valid if straight line through origin.  
+   - Use large \( R \) or \( C \) for measurable \( T \).","1 A student is investigating the behaviour of a capacitor-resistor circuit as shown in Fig. 1.1.
+
+\begin{figure}[h]
+\centering
+\caption{Fig. 1.1}
+\end{figure}
+
+A neon lamp flashes on and off when it is connected across the capacitor with a potential difference \( V \) across the lamp of approximately 90 V.  
+
+The student has a number of unmarked resistors.  
+It is suggested that the period \( T \) of the flashes of the lamp is related to the resistance \( R \) of the resistor by the expression  
+\[
+T = RCK
+\]  
+where \( C \) is the capacitance of the capacitor and \( K \) is a constant.  
+
+The constant \( K \) is given by  
+\[
+K = \ln\left(\frac{V_i - V_L}{V_i - V_F}\right)
+\]  
+where \( V_i \) is the potential difference across the input, \( V_F \) is the potential difference required to make the lamp flash and \( V_L \) is a constant.  
+
+Design a laboratory experiment to test the relationship between \( T \) and \( R \).  
+Explain how your results could be used to determine a value for \( K \) and \( V_L \).  
+
+You should draw a diagram showing the arrangement of your equipment. In your account you should pay particular attention to:  
+• the procedure to be followed  
+• the measurements to be taken  
+• the control of variables  
+• the analysis of the data  
+• any safety precautions to be taken."
+4,"1. Defining the problem  
+- \( x \) is the independent variable and \( E \) is the dependent variable, or vary \( x \) and measure \( E \).  
+- Keep \( B \) or \( m \) constant and keep \( k \) or \( N \) constant.  
+
+2. Methods of data collection  
+- Labelled diagram of workable experiment including:  
+  - labelled spring supported by stand and clamp  
+  - labelled magnet  
+  - labelled coil positioned so that magnet is vertically above the coil by eye in the correct orientation.  
+- Circuit diagram showing voltmeter / multimeter set to p.d. range / oscilloscope connected to the ends of the coil.  
+- Method to measure \( x \), e.g. labelled ruler drawn parallel to spring/magnet and equilibrium position and displaced position indicated.  
+- Method to measure mass of magnet e.g. use balance or use newton-meter to measure weight and divide by \( g \).  
+
+3. Method of Analysis  
+- Plot a graph of \( E \) against \( x \).  
+- Relationship valid if a straight line passing through the origin is produced.  
+- \( \alpha = \frac{\text{gradient}}{BN} \sqrt{\frac{m}{k}} \).  
+
+4. Additional detail including safety considerations  
+- Use safety goggles / safety screen to prevent injury from spring/magnet.  
+- Keep distance between equilibrium position and coil constant.  
+- Check that the unstretched length of the spring has not changed.  
+- Determine \( k \) from \( k = \frac{mg}{\text{extension}} \) or gradient of \( F \)-extension graph.  
+- Measure \( B \) using a calibrated Hall probe.  
+- Adjust Hall probe until maximum value or measure \( B \) in both directions and average.  
+- Position magnet to maximise \( E \) (e.g. equilibrium at coil centre).  
+- Use video with slow-motion playback to determine max \( E \).  
+- Repeat experiment for each \( x \) and average \( E \).  
+- Ensure clamped rule is vertical using set square or plumb line.","1 Fig. 1.1 shows a bar magnet attached to a spring.  
+
+spring  
+N  
+bar magnet  
+S  
+
+Fig. 1.1  
+
+The bar magnet is displaced a distance \( x \) from its equilibrium position and released. It then oscillates vertically.  
+
+A student investigates how the maximum induced electromotive force (e.m.f.) \( E \) in a coil placed below the magnet depends on \( x \).  
+
+It is suggested that the relationship between \( E \) and \( x \) is  
+
+\[
+E = \alpha B N x \sqrt{\frac{k}{m}}
+\]  
+
+where \( B \) is the magnetic flux density at one of the poles of the bar magnet, \( N \) is the number of turns on the coil, \( k \) is the spring constant, \( m \) is the mass of the magnet and \( \alpha \) is a constant.  
+
+Design a laboratory experiment to test the relationship between \( E \) and \( x \).  
+
+Explain how your results could be used to determine a value for \( \alpha \).  
+
+You should draw a diagram showing the arrangement of your equipment. In your account you should pay particular attention to:  
+- the procedure to be followed  
+- the measurements to be taken  
+- the control of variables  
+- the analysis of the data  
+- any safety precautions to be taken."
+5,"1. Defining the problem  
+Mass of cylinder \( m \) is the independent variable and period \( T \) is the dependent variable, or vary mass of cylinder \( m \) and measure period \( T \).  
+Keep radius of cylinder constant.  
+
+2. Methods of data collection  
+Labelled diagram of workable experiment including:  
+- beaker with (cooking) oil on a bench or container supported by stand where stand is on a bench  
+- cylinder partially submerged in (cooking) oil  
+- cylinder and (cooking) oil labelled.  
+Method to determine mass \( m \) of cylinder, e.g. use a (top pan) balance.  
+Method to determine period or \( T \), e.g. use a stopwatch / timer to time oscillations.  
+Method to determine diameter of cylinder, e.g. micrometer or calliper  
+
+3. Method of Analysis  
+Plots a graph of \( T^2 \) against \( m \).  
+(Allow other valid graphs, e.g. \( \lg T \) against \( \lg m \))  
+Relationship valid if a straight line passing through the origin is produced.  
+(Allow gradient = 0.5 for \( \log T \) against \( \log m \)).  
+\[  
+K = \frac{4\pi}{\text{gradient} \times \sigma r^2}  
+\]  
+\[  
+(K = \frac{4\pi}{10^{2 \times \text{y-intercept}} \times \sigma r^2 \text{ for } \lg T \text{ against } \lg m).  
+\]  
+
+4. Additional detail including safety considerations  
+- Use gloves to prevent oil contacting skin / slippery hands OR perform experiment in a tray to prevent oil spillages.  
+- Keep density / temperature of the (cooking) oil constant or keep \( \sigma \) constant.  
+- Time \( n \) oscillations and divide total time by \( n \) where \( n \geq 5 \).  
+- Description of method of counting oscillations with position of fiducial mark / mark on cylinder / beaker / fixed point shown in diagram.  
+- Repeat experiment for each value of \( m \) and average \( T \).  
+- \( r = \text{diameter} / 2 \) provided diameter measured.  
+- Repeat measurements of diameter in different directions and average.  
+- Wait for oscillations to become even / steady.","1 A student investigates the vertical oscillations of a solid cylinder which floats in cooking oil. Fig. 1.1 shows a cylinder of radius \( r \).  
+\[  
+\begin{array}{c}  
+\text{cylinder}  
+\end{array}  
+\]  
+Fig. 1.1  
+The student places the cylinder of mass \( m \) in the oil. The cylinder is displaced vertically from its equilibrium position and released so that it oscillates. The period \( T \) of the oscillations is determined.  
+A number of cylinders of different mass are available.  
+It is suggested that the relationship between \( T \) and \( m \) is  
+\[  
+T = 2\pi \sqrt{\frac{m}{\sigma K r^2}}  
+\]  
+where \( \sigma \) is the density of the oil and \( K \) is a constant.  
+Design a laboratory experiment to test the relationship between \( T \) and \( m \).  
+Explain how your results could be used to determine a value for \( K \).  
+You should draw a diagram showing the arrangement of your equipment. In your account you should pay particular attention to:  
+- the procedure to be followed  
+- the measurements to be taken  
+- the control of variables  
+- the analysis of the data  
+- any safety precautions to be taken."
+6,"1. Defining the problem  
+- \(\theta\) is the independent variable and \(v\) is the dependent variable, or vary \(\theta\) and measure \(v\).  
+- Keep \(d\) constant.  
+
+2. Methods of data collection  
+- Labelled diagram of workable experiment including:  
+  - sheet supported by stand / jack  
+  - light gate positioned at \(X\)  
+  - support, light gate and \(X\) labelled.  
+- Light gate connected to timer / datalogger.  
+- Measure length \(L\) (of card) interrupted by beam for single light gate.  
+- Method to measure \(\theta\), e.g. use protractor  
+  or  
+  Method to determine \(\theta\), e.g. use a rule(r) to measure two appropriate distances to use in a trigonometrical ratio.  
+
+3. Method of Analysis  
+- Plot a graph of \(v^2\) on \(y\)-axis and \(\sin \theta\) on \(x\)-axis.  
+  (Allow other valid graphs, e.g. \(\sin \theta\) against \(v^2\). Do not accept log graphs.)  
+- Gradient:  
+  \(p = \frac{\text{gradient}}{2d}\) for \(v^2\) against \(\sin \theta\)  
+  or  
+  \(p = \frac{1}{2d \times \text{gradient}}\) for \(\sin \theta\) against \(v^2\).  
+- \(q = -\frac{m \times \text{y-intercept}}{2Bd}\) for \(v^2\) against \(\sin \theta\)  
+  or  
+  \(q = \frac{m \times \text{y-intercept}}{2dB \times \text{gradient}}\) for \(\sin \theta\) against \(v^2\).  
+
+4. Additional detail including safety considerations  
+- Method to stop the trolley once it passes \(X\), e.g. place a block / stop on the bench.  
+- Keep \(B\) and \(m\) constant.  
+- Use a rule(r) to measure \(d\).  
+- Method to keep \(d\) constant, e.g. mark distance \(d\) on the sheet.  
+- Measure mass of trolley (and magnet) using a balance or newton meter.  
+- Measure \(B\) using a calibrated Hall probe.  
+- Adjust Hall probe for maximum value or average measurements in opposite directions.  
+- Determine \(v\) from \(L / t\) (for a single light gate).  
+- Additional detail on measuring \(\theta\), e.g. protractor position or trigonometric lengths.  
+- Relationship valid if a straight line is produced (not passing through the origin).  
+- Repeat experiment for each \(\theta\) and average \(v\).","1 A trolley with a magnet attached is placed on a thin steel sheet as shown in Fig. 1.1.
+
+\begin{figure}[h]
+\centering
+\caption{Fig. 1.1}
+\end{figure}
+
+trolley \\
+magnet \\
+S \\
+N \\
+\(d\) \\
+steel sheet \\
+X bench \\
+\(\theta\)
+
+The angle between the sheet and the bench is \(\theta\). The distance from point X to the trolley is \(d\).  
+The trolley is released from rest and travels down the slope. The velocity \(v\) of the trolley at X is determined using a light gate.  
+
+It is suggested that \(v\) is related to \(\theta\) by the relationship  
+\[
+mp \sin \theta - qB = \frac{mv^2}{2d}
+\]  
+where \(m\) is the mass of the trolley and magnet, \(B\) is the magnetic flux density between the magnet and the steel sheet, and \(p\) and \(q\) are constants.  
+
+Plan a laboratory experiment to test the relationship between \(v\) and \(\theta\).  
+Draw a diagram showing the arrangement of your equipment.  
+Explain how the results could be used to determine values for \(p\) and \(q\).  
+
+In your plan you should include:  
+- the procedure to be followed  
+- the measurements to be taken  
+- the control of variables  
+- the analysis of the data  
+- any safety precautions to be taken."
+7,"1. Defining the problem:  
+   - \(f\) is the independent variable and \(Q\) is the dependent variable, or vary \(f\) and measure \(Q\). (1 mark)  
+   - Keep \(h\) constant. (1 mark)  
+
+2. Methods of data collection:  
+   - Labelled diagram including fan, turbine, pump, pipe, liquid collection method. (1 mark)  
+   - Apparatus to collect liquid (e.g., beaker/measuring cylinder) with labels. (1 mark)  
+   - Use stopwatch/timer to measure time for liquid collection or blade rotation. (1 mark)  
+   - Use balance to measure mass of liquid. (1 mark)  
+
+3. Method of Analysis:  
+   - Plot graph of \(Q\) against \(f^3\) (or \(f^3\) against \(Q\)). (1 mark)  
+   - \(C = gh \times \text{y-intercept}\) (for \(f^3\) against \(Q\): \(C = -D \times \text{y-intercept}\)). (1 mark)  
+   - \(D = gh \times \text{gradient}\) (for \(f^3\) against \(Q\): \(D = \frac{gh}{\text{gradient}}\)). (1 mark)  
+
+4. Additional detail (6 marks, any six):  
+   - Safety: Contain spills / use goggles / clamp turbine.  
+   - Measure \(h\) with ruler.  
+   - Determine mass via mass difference (beaker + liquid − empty beaker).  
+   - Determine \(f\) via \(f = N/t\) or video analysis.  
+   - Mark blade for rotation counting.  
+   - Vary \(f\) via fan speed/distance.  
+   - Wait for steady airflow before measurements.  
+   - \(Q = \frac{\text{mass}}{\text{time}}\); reduce uncertainty with large time/mass.  
+   - Repeat \(Q\) measurements for same \(f\); average.  
+   - Validate relationship via straight-line graph (non-zero intercept).","1 An electric pump is placed in a container of liquid. A model wind turbine is connected to the pump by a cable, as shown in Fig. 1.1.
+
+\begin{figure}[h]
+\centering
+\caption{Fig. 1.1 (not to scale)}
+\end{figure}
+
+The turbine is placed in moving air. As the turbine blades turn, electricity is generated and the pump pushes liquid through a vertical pipe.
+
+The frequency of rotation of the turbine blades is \(f\). The height the liquid moves is \(h\). The mass per unit time of the liquid leaving the top of the pipe is \(Q\).
+
+It is suggested that \(Q\) is related to \(f\) by the relationship  
+\[Qgh = C + Df^3\]  
+where \(g\) is the acceleration of free fall, and \(C\) and \(D\) are constants.
+
+Plan a laboratory experiment to test the relationship between \(Q\) and \(f\).  
+Draw a diagram showing the arrangement of your equipment.  
+Explain how the results could be used to determine values for \(C\) and \(D\).  
+
+In your plan you should include:  
+- the procedure to be followed  
+- the measurements to be taken  
+- the control of variables  
+- the analysis of the data  
+- any safety precautions to be taken.  
+
+Diagram"
+8,"1. Defining the problem  
+- \( L \) is the independent variable and \( f \) is the dependent variable, or vary \( L \) and measure \( f \).  
+- Keep \( \rho \) constant.  
+
+2. Methods of data collection  
+- Labelled diagram including:  
+  - Rod supported by string/elastic bands from a clamp.  
+  - Clamp attached to stand, with stand on bench.  
+  - Microphone connected to oscilloscope.  
+- Measure \( L \) using a metre rule.  
+- Measure mass \( m \) of rod using a balance.  
+
+3. Method of Analysis  
+- Plot graph of \( \log f \) against \( \log L \) (or \( \log f \) against \( \log \frac{1}{L} \)).  
+- \( n = -\text{gradient} \) (or \( n = \text{gradient} \) for \( \log f \) vs \( \log \frac{1}{L} \)).  
+- \( E = 4\rho \times 10^{2} \times \text{y-intercept} \) (or \( E = 4\rho \times e^{2 \times \text{y-intercept}} \) for \( \ln f \) vs \( \ln L \)).  
+
+4. Additional detail including safety considerations  
+- Precaution against falling rod (e.g. sand tray).  
+- Measure diameter \( d \) of rod using micrometer/calipers.  
+- Repeat diameter measurements and average.  
+- Calculate \( \rho = \frac{4m}{\pi d^{2}L} \).  
+- Perform experiment in quiet room.  
+- Prevent rod hitting microphone (e.g. gap between rod and microphone).  
+- Determine \( f \) from oscilloscope using \( f = \frac{1}{T} \).  
+- Reduce uncertainties (e.g. large \( L \), adjust time-base).  
+- Repeat measurements of \( f \) for each \( L \).  
+- Validate relationship via linear graph.  
+
+Safety: Ensure secure setup to avoid injury from falling rod.","1 Fig. 1.1 shows a thin cylindrical metal rod of length \( L \).
+
+\( L \)
+
+Fig. 1.1
+
+One end of the rod is hit with a hammer. A stationary sound wave is set up within the rod. The rod vibrates at its resonant frequency \( f \).
+
+A microphone placed at the other end of the rod detects the sound wave emitted from the rod. The frequency of the detected sound is also \( f \).
+
+A number of rods of different length are available.
+
+It is suggested that \( f \) is related to \( L \) by the relationship  
+
+\[
+\frac{E}{2f L^{n}} = \sqrt{\rho}
+\]
+
+where \( \rho \) is the density of the metal, and \( E \) and \( n \) are constants.  
+
+Plan a laboratory experiment to test the relationship between \( f \) and \( L \).  
+
+Draw a diagram showing the arrangement of your equipment.  
+
+Explain how the results could be used to determine values for \( E \) and \( n \).  
+
+In your plan you should include:  
+• the procedure to be followed  
+• the measurements to be taken  
+• the control of variables  
+• the analysis of the data  
+• any safety precautions to be taken."
+9,"1 Planning (15 marks)  
+**Defining the problem (3 marks)**  
+P1 \(r\) is the independent variable or vary \(r\) (accept diameter but not mass or size). [1]  
+P2 \(v\) is the dependent variable or determine \(v\) (accept speed). [1]  
+P3 A controlled variable – accept temperature, distance when time is measured, or time when distance measured. Do not accept volume/height of oil. [1]  
+
+**Methods of data collection (5 marks)**  
+M1 Diagram of a workable arrangement including a deep container of oil, ball and some measurement indicated for either time or distance. [1]  
+M2 Measure diameter by using a micrometer (screw gauge)/vernier callipers (and halving to obtain radius). Accept from diagram. Accept travelling microscope. [1]  
+M3 Measure the time for the ball to fall a set distance in oil (or distance for a set time). [1]  
+M4 Measure the (constant) distance fallen (constant time) and show how \(v\) is calculated. [1]  
+M5 Evidence that ball has reached terminal velocity (e.g. starting mark well below surface of oil). Reject equations of uniform acceleration ideas. [1]  
+
+**Method of analysis (2 marks)**  
+A1 Plot a graph of \(v\) against \(r^2\) or logarithmic equivalent. [1]  
+A2 Relationship is correct if graph is a straight line through the origin. If \(\lg v\) against \(\lg r\) is plotted, gradient should equal 2. [1]  
+
+**Safety considerations (1 mark)**  
+S1 Relevant safety precaution related to the oil, e.g. mop up spillages of oil/wear gloves with reason/keep away from flames. Do not accept vague answers. [1]  
+
+**Additional detail (4 marks)**  
+D1/2/3/4 Relevant points might include: [4]  
+- Allow oil to stand so that air bubbles escape/ball may trap air bubbles.  
+- Wash and dry steel balls/handle steel balls with tweezers/gloves.  
+- Distance marks should be as far apart as possible or use long tube.  
+- Large distance to reduce percentage uncertainty.  
+- Wide tube to reduce edge effects/method to keep long tube vertical.  
+- Discussion of parallax for stopwatch methods.  
+- Method of ensuring terminal velocity has been reached.  
+- Retrieve steel balls using a magnet.  
+- Use clear oil.  
+- Repeat diameter measurements and average.  
+- An additional variable kept constant.  
+
+[Total: 15]  
+© UCLES 2007","1 It is useful to know how the speed of an object is affected by its size when it moves through liquid in a confined space. In a laboratory this can be modelled by dropping small steel balls through oil.  
+
+It is suggested that the terminal velocity \(v\) is related to the radius \(r\) of a steel ball by the equation  
+\[v = kr^2\]  
+where \(k\) is a constant.  
+
+Design a laboratory experiment to investigate whether \(v\) is related to \(r\) as indicated in the above equation. You should draw a diagram showing the arrangement of your equipment. In your account you should pay particular attention to  
+(a) the procedure to be followed,  
+(b) how the radius of the steel ball would be measured,  
+(c) how the terminal velocity of the steel ball in oil would be measured,  
+(d) the control of variables,  
+(e) how the data would be analysed,  
+(f) any safety precautions that you would take.  
+[15]  
+
+Diagram"
+10,"1 Planning (15 marks)  
+Defining the problem (3 marks)  
+P1 A is the independent variable or vary A. [1]  
+P2 R is the dependent variable or determine R for different A. [1]  
+P3 Keep the temperature (of glass) constant. Do not allow “controlled variable”. [1]  
+
+Methods of data collection (5 marks)  
+M1 Basic circuit diagram. [1]  
+Ammeter and voltmeter with power supply, or  
+ohmmeter without power supply, or  
+bridge methods.  
+M2 Correct orientation of glass between electrodes – largest cross-sectional area. [1]  
+M3 Distance (thickness) measured using a micrometer/vernier scale/vernier callipers. [1]  
+M4 Method of determining area perpendicular to current flow. [1]  
+Distances measured and multiplied together.  
+This mark may only be scored if correct dimensions are used.  
+M5 Method of determining resistance. [1]  
+Ohmmeter.  
+\( R = \frac{V}{I} \) justified.  
+Description of balancing bridge with correct equation.  
+
+Method of analysis (2 marks)  
+A1 A2  
+R against \(1/A\), \( \rho = \frac{\text{gradient}}{l} \)  
+R against \(l/A\), \( \rho = \text{gradient} \)  
+\(1/A\) against R or \(1/R\) against A, \( \rho = \frac{1}{\text{gradient} \times l} \)  
+\(l/A\) against R or \(l/R\) against A, \( \rho = \frac{1}{\text{gradient}} \)  
+\(\lg R\) against \(\lg A\), \( \rho = 10l \times \text{y-intercept} \)  
+[2]  
+
+Safety considerations (1 mark)  
+S1 Relevant safety precaution: [1]  
+EHT power supply (\(>100\ \text{V}\)) – switch off before changing circuit/use rubber gloves;  
+or handling glass – wear thick gloves.  
+
+Additional detail (4 marks)  
+D1/2/3/4 Relevant points: [4]  
+Calculation of typical resistance using given resistivity.  
+Range of ammeter/ohmmeter with reasoning.  
+Use of EHT/power supply \(>1000\ \text{V}\) or microammeter/galvanometer.  
+Take multiple thickness readings and average.  
+Good contact using metal plates/foil/conducting putty.  
+Metal plates cover entire cross-sectional area.  
+Securing contact with clamps/weights.  
+Clean/dry glass.","1 A student wishes to measure the resistivity of glass. A teacher suggests that its resistivity is of the order of \(10^6 \ \Omega\ \text{m}\) which is very large.
+
+Resistivity \(\rho\) is defined by the equation  
+\[
+\rho = \frac{RA}{l}
+\]  
+where \(R\) is resistance, \(A\) is cross-sectional area and \(l\) is the length of the material.  
+
+The student is given a number of sheets of glass of the same thickness and of different areas.  
+
+Design a laboratory experiment to determine the resistivity of glass. You should draw a diagram showing the arrangement of your equipment. In your account you should pay particular attention to  
+(a) the procedure to be followed,  
+(b) how the glass would be connected to the circuit,  
+(c) the measurements that would be taken,  
+(d) the control of variables,  
+(e) how the data would be analysed,  
+(f) any safety precautions that you would take.  
+
+Diagram"
+11,"1 Planning (15 marks)  
+**Defining the problem (3 marks)**  
+P1 Vary \( l \) or \( l \) is the independent variable  
+P2 Determine the period \( T \) (for each \( l \)) or \( T \) is the dependent variable  
+P3 \( M \) is kept constant  
+
+**Methods of data collection (5 marks)**  
+M1 Diagram showing the cantilever is fixed (e.g. g-clamp & bench, retort stand & clamp)  
+M2 Many oscillations repeated to determine average \( T \) (\( n \geq 10 \) or \( t \geq 10 \, \text{s} \) for stopwatch)  
+M3 Weigh \( M \) using balance  
+M4 Measure \( w \), \( d \), and \( l \)  
+M5 Use vernier caliper/micrometer to measure \( d \) and/or \( w \)  
+
+**Method of analysis (2 marks)**  
+A1 Plot \( T^2 \) against \( l^3 \) or \( \lg T \) against \( \lg l \)  
+A2 \( E = \frac{16\pi^2 M}{w d^3 \times \text{gradient}} \) or logarithmic solutions  
+
+**Safety considerations (1 mark)**  
+S1 Safety precaution related to loads (e.g. cushion/sand to prevent falling)  
+
+**Additional detail (4 marks)**  
+1. Use same rule (keep \( w \), \( d \) constant)  
+2. Repeat measurements of \( d \), \( w \); average  
+3. Use motion sensor/light gates with detail  
+4. Small amplitude oscillations (ensure equation validity)  
+5. Secure load with tape/glue  
+6. Load magnitude: large enough for measurable \( T \)  
+7. Use fiducial marker for timing  
+8. Start timing after oscillations settle  
+
+[Total: 15]","1 A student wishes to determine the Young modulus \(E\) of wood from the period of oscillation of a loaded wooden rule, as shown in Fig. 1.1.
+
+fixed end  
+load  
+\(l\)  
+
+Fig. 1.1  
+
+An equation relating the period of oscillation \(T\) to the overhanging length \(l\) of the rule is  
+\[
+T^2 = \frac{k l^3}{E}.
+\]  
+The constant \(k\) is given by  
+\[
+k = \frac{16\pi^2 M}{w d^3}
+\]  
+where \(M\) is the mass of the load, \(w\) is the width of the rule and \(d\) is the thickness of the rule.  
+
+Design a laboratory experiment to determine the Young modulus of wood. You should draw a diagram showing the arrangement of your equipment. In your account, you should pay particular attention to  
+(a) the procedure to be followed,  
+(b) the measurements to be taken,  
+(c) the control of variables,  
+(d) how to analyse the data,  
+(e) how to determine \(E\),  
+(f) the safety precautions to be taken."
+12,"1 Planning (15 marks)  
+**Defining the problem (3 marks)**  
+P1 Vary \(v\) and measure \(d\), or \(v\) is the independent variable and \(d\) is the dependent variable [1]  
+P2 Keep mass constant [1]  
+P3 Keep the wood constant/keep same type of nails [1]  
+
+**Methods of data collection (5 marks)**  
+M1 Diagram of apparatus showing mass falling onto centre of nail [1]  
+M2 Change height of falling mass (to change \(v\)) [1]  
+M3 Measurement(s) from which \(v\) can be determined, e.g. measure height fallen; light gate(s) connected to timer/data-logger measuring time, and ticker tape/motion sensor. Do not award stopwatch methods. [1]  
+M4 Appropriate equation to determine \(v\) (the velocity of the mass at the instant it hits the nail) [1]  
+M5 Detail on measuring \(d\); subtract, needle, mark nail, depth gauge [1]  
+
+**Method of analysis (2 marks)**  
+A1 Plot a graph of \(\log d\) against \(\log v\) [1]  
+A2 \(n = \text{gradient}\) [1]  
+
+**Safety considerations (1 mark)**  
+S1 Precaution linked to falling masses, e.g. keep well away/sand trays [1]  
+
+**Additional detail (4 marks)**  
+D 1/2/3/4 Relevant points might include [4]:  
+1. Method to create a large \(d\), e.g. large mass, thin nails, soft wood  
+2. Use of a guide for falling mass/guide for nail  
+3. Use of vernier scale to measure \(d\)  
+4. Repeat experiment and determine an average  
+5. Use different part of wood for each test  
+6. Method to make nail vertical e.g. set square  
+7. Discussion / preliminary experiment about thin nails going totally into wood  
+8. \(\log d = n \log v + \log k\)  
+
+[Total: 15]","1 A hammer is often used to force a nail into wood. The faster the hammer moves, the deeper the nail moves into the wood.  
+This can be represented in a laboratory by a mass falling vertically onto a nail.  
+It is suggested that the depth \(d\) of the nail in the wood (see Fig. 1.1) is related to the velocity \(v\) of the mass at the instant it hits the nail by the equation  
+\[d = kv^n\]  
+where \(k\) and \(n\) are constants.  
+
+Design a laboratory experiment to investigate the relationship between \(v\) and \(d\) so as to determine a value for \(n\). You should draw a diagram showing the arrangement of your equipment. In your account you should pay particular attention to  
+(a) the procedure to be followed,  
+(b) the measurements to be taken,  
+(c) the control of variables,  
+(d) the analysis of the data,  
+(e) the safety precautions to be taken.  
+
+[15]"
+13,"1 Planning (15 marks)  
+**Defining the problem (3 marks)**  
+P1 \(x\) is the independent variable, \(B\) is the dependent variable or vary \(x\) and measure \(B\) [1]  
+P2 Keep the number of turns on the coil/radius of the coil constant [1]  
+P3 Keep the current (in the coil) constant [1]  
+
+**Methods of data collection (5 marks)**  
+M1 Diagram showing coil and Hall probe with a means of read out appropriately positioned along axis [1]  
+M2 Coil connected to a power supply [1]  
+M3 Measure \(x\) with a ruler [1]  
+M4 Hall probe at right angles to direction of magnetic field or gives maximum output for each reading [1]  
+M5 Method to determine axis of coil or to find \(x = 0\) [1]  
+
+**Method of analysis (2 marks)**  
+A1 Plot a graph of \(\ln B\) against \(x\) [1]  
+A2 Relationship valid if a straight line is produced (ignore reference to \(y\)-intercept) [1]  
+
+**Safety considerations (1 mark)**  
+S1 Precaution linked to (large) current in coil/heating, e.g. switch off when not in use to avoid overheating coil; do not touch because it is hot [1]  
+
+**Additional detail (4 marks)**  
+D1 Method to create a large magnetic field, e.g. use large current or large number of turns.  
+D2 Reasoned method to keep current constant.  
+D3 Reasoned method to keep Hall probe in same orientation (e.g. use of set square, fix to rule, optical bench or equivalent).  
+D4 \(B\) is proportional to voltage across Hall probe/calibrate Hall probe (in a known magnetic field).  
+D5 Repeat experiment with Hall probe reversed or equivalent.  
+D6 Identifies logarithmic equation i.e. \(\ln B = -px + \ln B_0\).  
+D7 Avoid external magnetic fields.  
+D8 Method to keep Hall probe along axis.  
+[4]","1 A current in a flat circular coil produces a magnetic field.  
+A student suggests that the strength \( B \) of the magnetic field is related to the distance \( x \) from the centre of the coil (see Fig. 1.1) by the equation  
+\[ B = B_0 e^{-px} \]  
+where \( B_0 \) is the strength of the magnetic field for \( x = 0 \), and \( p \) is a constant.  
+
+Design a laboratory experiment that uses a Hall probe to investigate the relationship between \( B \) and \( x \). You should draw a diagram showing the arrangement of your equipment.  
+In your account you should pay particular attention to  
+(a) the procedure to be followed,  
+(b) the measurements to be taken,  
+(c) the control of variables,  
+(d) the analysis of the data,  
+(e) the safety precautions to be taken."
+14,"1 Planning (15 marks)  
+**Defining the problem (3 marks)**  
+P1 \(n\) is the independent variable and \(V\) is the dependent variable or vary \(n\) and measure \(V\) [1]  
+P2 Keep distance from light to photocell constant [1]  
+P3 Keep intensity of light constant. Allow constant voltage across lamp/current through lamp/brightness. [1]  
+
+**Methods of data collection (5 marks)**  
+M1 Labelled diagram of apparatus: lamp, glass sheet and photocell in line. [1]  
+M2 Voltmeter connected to photocell. [1]  
+M3 Use micrometer (screw gauge) to measure thickness of glass sheet. [1]  
+M4 Take many readings of thickness and average. [1]  
+M5 Perform experiment in a dark room or shield apparatus. [1]  
+
+**Method of analysis (2 marks)**  
+A1 Plot a graph of \(\ln V\) against \(n\). Allow \(\ln V\) against \(nt\) [1]  
+A2 \(\alpha = \text{(–)gradient}/t\). (\(\ln V\) against \(nt\) then \(\alpha = \text{(–)gradient}\)) [1]  
+
+**Safety considerations (1 mark)**  
+S Reasoned method to prevent burns/cuts from glass or eye damage from bright source. [1]  
+
+**Additional detail (4 marks)**  
+D Relevant points:  
+1 Use small distance/high intensity for large reading.  
+2 Method to check output of lamp is constant.  
+3 Circuit with variable resistor/power supply.  
+4 Clean glass sheets.  
+5 Light perpendicular to glass.  
+6 \(\ln V = -\alpha nt + \ln V_0\).  
+7 Further safety consideration.  
+[4]  
+
+[Total: 15]","1 When light is incident on the front of a photocell, an e.m.f. is generated in the photocell.  
+A student wishes to investigate the effect of adding various thicknesses of glass in front of a photocell. This may be carried out in the laboratory by varying the number of identical thin glass sheets between a light source and the front of the photocell.  
+It is suggested that the e.m.f. \(V\) is related to the number \(n\) of glass sheets by the equation  
+\[
+V = V_0 e^{-\alpha n t}
+\]  
+where \(t\) is the thickness of one sheet, \(\alpha\) is the absorption coefficient of glass and \(V_0\) is the e.m.f. for \(n = 0\).  
+
+Design a laboratory experiment to determine the absorption coefficient of glass. You should draw a diagram showing the arrangement of your equipment. In your account you should pay particular attention to  
+(a) the procedure to be followed,  
+(b) the measurements to be taken,  
+(c) the control of variables,  
+(d) the analysis of the data,  
+(e) the safety precautions to be taken.  
+[15]"
+15,"1 Planning (15 marks)  
+**Defining the problem (3 marks)**  
+P1 \( p \) is the independent variable or vary \( p \) [1]  
+P2 \( q \) is the dependent variable or measure \( q \) [1]  
+P3 Keep (horizontal) velocity \( v \) constant [1]  
+
+**Methods of data collection (5 marks)**  
+M1 Labelled diagram of apparatus including method to vary \( p \). [1]  
+M2 Method to determine position of ball on surface e.g. carbon paper/dye/video/sand. [1]  
+M3 Use ruler/caliper to measure \( p \) and/or \( q \). [1]  
+M4 Method to ensure velocity is constant e.g. releasing ball from same height on a track/spring loaded device or impulse device set to a constant value. [1]  
+M5 Method to ensure that the moved surface remains horizontal, e.g. spirit level/check height at different places. [1]  
+
+**Method of analysis (2 marks)**  
+A1 \( q^2 \) against \( p \); \( q \) against \( p \); \( p \) against \( q^2 \); \( p \) against \( q \) [1]  
+A2 \( v = \sqrt{\frac{g \times \text{gradient}}{2}} \); \( v = \sqrt{\frac{g}{2}} \times \text{gradient} \); \( v = \sqrt{\frac{1}{2 \times \text{gradient}}} \times g \); \( v = \sqrt{\frac{g}{2 \times \text{gradient}}} \) [1]  
+
+**Safety considerations (1 mark)**  
+S Reasoned method to prevent ball rolling on floor e.g. box below/storage box for balls/sand box. Reasoned method to prevent ball causing injury e.g. goggles/safety screen [1]  
+
+**Additional detail (4 marks)**  
+D Relevant points might include [4]  
+1 Method to ensure that velocity of ball is horizontal only when it reaches table, e.g. curved track.  
+2 Ensure that the ball leaves the table at 90°, e.g. set square/protractor on upper surface.  
+3 Detail on measuring \( q \) – location of landing position e.g. centre of crater/start of track.  
+4 Detail on determining location of zero position for \( p \) and \( q \) e.g. set square, plumb line.  
+5 Detail on method of determining position of ball e.g. slow motion playback including scale.  
+6 Take many readings of \( q \) for each \( p \) and average.  
+7 Straight line through the origin shows that \( p \) is proportional to \( q^2 \)/relationship is valid.  
+8 Use of high density ball to minimise the effects of air resistance.","1 A student wishes to investigate projectile motion.
+
+A small ball is rolled with velocity \( v \) along a horizontal surface. When the ball reaches the end of the horizontal surface, it falls and lands on a lower horizontal surface. The vertical displacement of the ball is \( p \) and the horizontal displacement of the ball is \( q \), as shown in Fig. 1.1.
+
+It is suggested that  
+\( gq^2 = 2pv^2 \)  
+where \( g \) is the acceleration of free fall.
+
+Design a laboratory experiment to investigate how \( q \) is related to \( p \) and how \( v \) may be determined from the results. You should draw a diagram showing the arrangement of your equipment. In your account you should pay particular attention to  
+(a) the procedure to be followed,  
+(b) the measurements to be taken,  
+(c) the control of variables,  
+(d) the analysis of the data,  
+(e) the safety precautions to be taken.  
+
+[15]"
+16,"1 Planning (15 marks)  
+Defining the problem (3 marks)  
+P1 Frequency or period of rotation or \( \omega \) is the independent variable and \( \theta \) is the dependent variable or vary \( f \) or \( T \) or \( \omega \) and measure \( \theta \). [1]  
+P2 \( \omega = 2\pi f = 2\pi / T \). [1]  
+P3 Keep the length of the rigid rod constant; ignore reference to mass. [1]  
+
+Methods of data collection (5 marks)  
+M1 Labelled diagram of apparatus: small object, pole attached to a rotating device (motor, turntable). [1]  
+M2 Method to change the speed of the rotating device. [1]  
+M3 Method to determine frequency or time period (e.g. stopwatch to time a number of rotations, rev counter/tachometer, light gates connected to a timer/frequency meter). [1]  
+M4 Use fiducial mark or light gates perpendicular to motion of object. [1]  
+M5 Method to measure angle – use protractor or rule for measurements for trigonometry methods. This must be shown correctly on diagram or explained in text. [1]  
+
+Method of analysis (2 marks)  
+A1 Plot a graph of \( \cos \theta \) against \( 1 / \omega^2 \). [1]  
+A2 Relationship is valid if straight line through the origin. [1]  
+
+Safety considerations (1 mark)  
+S1 Use a protective screen in case mass detaches from the pole. Do not use goggles. [1]  
+
+Additional detail (4 marks)  
+Relevant points might include [4]  
+1 Large motor speed to produce measurable \( \theta \).  
+2 Additional detail on measuring angle e.g. large protractor fixed to pole.  
+3 Projection method, slow motion freeze frame video, camera with detail.  
+4 \( \cos \theta = h / l \) or equivalent.  
+5 Method of checking pole is vertical – use a set square.  
+6 Additional detail on measuring angular velocity, e.g. time at least 10 rotations.  
+7 Wait for motion to become stable.  
+Do not allow vague computer methods.","1 A fairground ride carries passengers in chairs which are attached by metal rods to a rotating central pole, as shown in Fig 1.1. When the pole rotates with angular velocity \( \omega \), the rods make an angle \( \theta \) to the vertical.  
+
+It is suggested that \( \cos \theta \) is inversely proportional to \( \omega^2 \).  
+
+Design a laboratory experiment, using a small object to represent an occupied chair, to test the relationship between \( \theta \) and \( \omega \). You should draw a diagram showing the arrangement of your equipment. In your account you should pay particular attention to  
+(a) the procedure to be followed,  
+(b) the measurements to be taken,  
+(c) the control of variables,  
+(d) the analysis of the data,  
+(e) the safety precautions to be taken."
+17,"1 Planning (15 marks)  
+Defining the problem (3 marks)  
+P1 Frequency or period of rotation or \( \omega \) is the independent variable and \( \theta \) is the dependent variable or vary \( f \) or \( T \) or \( \omega \) and measure \( \theta \). [1]  
+P2 \( \omega = 2\pi f = \frac{2\pi}{T} \). [1]  
+P3 Keep the length of the rigid rod constant; ignore reference to mass. [1]  
+
+Methods of data collection (5 marks)  
+M1 Labelled diagram of apparatus: small object, pole attached to a rotating device (motor, turntable). [1]  
+M2 Method to change the speed of the rotating device. [1]  
+M3 Method to determine frequency or time period (e.g. stopwatch to time a number of rotations, rev counter/tachometer, light gates connected to a timer/frequency meter). [1]  
+M4 Use fiducial mark or light gates perpendicular to motion of object. [1]  
+M5 Method to measure angle – use protractor or rule for measurements for trigonometry methods. This must be shown correctly on diagram or explained in text. [1]  
+
+Method of analysis (2 marks)  
+A1 Plot a graph of \( \cos \theta \) against \( \frac{1}{\omega^2} \). [1]  
+A2 Relationship is valid if straight line through the origin. [1]  
+
+Safety considerations (1 mark)  
+S1 Use a protective screen in case mass detaches from the pole. Do not use goggles. [1]  
+
+Additional detail (4 marks)  
+Relevant points might include [4]  
+1 Large motor speed to produce measurable \( \theta \).  
+2 Additional detail on measuring angle e.g. large protractor fixed to pole.  
+3 Projection method, slow motion freeze frame video, camera with detail.  
+4 \( \cos \theta = \frac{h}{l} \) or equivalent.  
+5 Method of checking pole is vertical – use a set square.  
+6 Additional detail on measuring angular velocity, e.g. time at least 10 rotations.  
+7 Wait for motion to become stable.  
+Do not allow vague computer methods.  
+
+[Total: 15]","1 A fairground ride carries passengers in chairs which are attached by metal rods to a rotating central pole, as shown in Fig 1.1. When the pole rotates with angular velocity \( \omega \), the rods make an angle \( \theta \) to the vertical. 
+
+It is suggested that \( \cos \theta \) is inversely proportional to \( \omega^2 \).  
+Design a laboratory experiment, using a small object to represent an occupied chair, to test the relationship between \( \theta \) and \( \omega \). You should draw a diagram showing the arrangement of your equipment. In your account you should pay particular attention to  
+(a) the procedure to be followed,  
+(b) the measurements to be taken,  
+(c) the control of variables,  
+(d) the analysis of the data,  
+(e) the safety precautions to be taken."
+18,"1 Planning (15 marks)  
+**Defining the problem (3 marks)**  
+P \(h\) is the independent variable or vary \(h\). [1]  
+P \(Q\) is the dependent variable or measure \(Q\) (allow \(t\)). [1]  
+P Keep \(l\) constant. [1]  
+
+**Methods of data collection (5 marks)**  
+M Labelled diagram of apparatus: including labelled measuring cylinder/calibrated beaker to receive water. (Measurement may be credited in the text.) [1]  
+M Vary position of vertical/larger tube. [1]  
+M Measure \(h\) and \(l\) with a rule/caliper. [1]  
+M Measure \(d\) with a travelling microscope or vernier calipers. [1]  
+M Measure \(t\) with stopwatch. [1]  
+
+**Method of analysis (2 marks)**  
+A Plot a graph of \(Q\) against \(h\). [Allow \(\lg Q\) against \(\lg h\)] [1]  
+A \(\eta = \frac{2\pi\rho g d^4}{l \times \text{gradient}}\). Must include gradient and must be subject of formula. [1]  
+
+**Safety considerations (1 mark)**  
+S Reasoned method to prevent spills, e.g. use tray/sink/cloths on floor. Reasoned method to prevent injury when adjusting metal/glass tubes by wearing protective gloves. [1]  
+
+**Additional detail (4 marks)**  
+D Relevant points might include [4]:  
+1 Repeat experiment for same \(h\) and average.  
+2 Method to determine the density of water including method to measure mass and volume and equation.  
+3 Take many readings of \(d\) and average.  
+4 Relationship is valid if straight line passing through origin [if \(\lg\)-\(\lg\) graph, allow straight line with gradient = 1].  
+5 Method to check that tube is horizontal.  
+6 Detail on measuring \(h\) to the centre of the horizontal tube, e.g. add radius of tube.  
+7 Keep temperature of water constant.","1 A student is investigating the flow of water through a horizontal tube.  
+The rate \( Q \) (volume per unit time) at which water flows through a tube depends on the pressure difference per unit length across the tube.  
+The student has the use of a metal can with two holes. A narrow horizontal tube goes through the hole in the side of the can. The can is continuously supplied with water from a tap.  
+The level of water in the can is kept constant by the position of a wide vertical tube which passes through the hole in the bottom of the can as shown in Fig. 1.1. Both tubes may be moved along the holes.  
+
+It is suggested that the relationship between the flow rate \( Q \) of water through the narrow horizontal tube and the vertical height \( h \) is  
+\[
+Q = \frac{2 \pi \rho g h d^4}{l \eta}
+\]  
+where \( \rho \) is the density of water, \( g \) is the acceleration of free fall, \( d \) is the internal diameter of the tube, \( l \) is the length of the tube and \( \eta \) is a constant.  
+
+Design a laboratory experiment to test the relationship between \( Q \) and \( h \) and determine a value for \( \eta \). You should draw a diagram showing the arrangement of your equipment. In your account you should pay particular attention to  
+(a) the procedure to be followed,  
+(b) the measurements to be taken,  
+(c) the control of variables,  
+(d) the analysis of the data,  
+(e) the safety precautions to be taken."
+19,"1 Planning (15 marks)
+
+**Defining the problem (3 marks)**  
+P \( h \) is the independent variable or vary \( h \). [1]  
+P \( Q \) is the dependent variable or measure \( Q \) (allow \( t \)). [1]  
+P Keep \( l \) constant. [1]  
+
+**Methods of data collection (5 marks)**  
+M Labelled diagram of apparatus including measuring cylinder/calibrated beaker. [1]  
+M Vary position of vertical tube. [1]  
+M Measure \( h \) and \( l \) with a rule/caliper. [1]  
+M Measure \( d \) with travelling microscope or vernier calipers. [1]  
+M Measure \( t \) with stopwatch. [1]  
+
+**Method of analysis (2 marks)**  
+A Plot graph of \( Q \) against \( h \). [Allow \( \lg Q \) against \( \lg h \)] [1]  
+A \( \eta = \frac{2\pi \rho g d^4}{l \times \text{gradient}} \). Must include gradient and subject of formula. [1]  
+
+**Safety considerations (1 mark)**  
+S Prevent spills using tray/sink/cloths; wear gloves when adjusting tubes. [1]  
+
+**Additional detail (4 marks)**  
+1 Repeat experiment for same \( h \) and average. [1]  
+2 Determine \( \rho \) by measuring mass and volume. [1]  
+3 Take multiple readings of \( d \) and average. [1]  
+4 Valid if straight line through origin (or gradient = 1 for \( \lg \)-\( \lg \)). [1]  
+5 Check tube is horizontal. [1]  
+6 Measure \( h \) to centre of tube (e.g., add radius). [1]  
+7 Keep water temperature constant. [1]","A student is investigating the flow of water through a horizontal tube.
+
+The rate \( Q \) (volume per unit time) at which water flows through a tube depends on the pressure difference per unit length across the tube.
+
+The student has the use of a metal can with two holes. A narrow horizontal tube goes through the hole in the side of the can. The can is continuously supplied with water from a tap. The level of water in the can is kept constant by the position of a wide vertical tube which passes through the hole in the bottom of the can as shown in Fig. 1.1. Both tubes may be moved along the holes.
+
+It is suggested that the relationship between the flow rate \( Q \) of water through the narrow horizontal tube and the vertical height \( h \) is  
+
+\[ Q = \frac{2 \pi \rho g h d^4}{l \eta} \]  
+
+where \( \rho \) is the density of water, \( g \) is the acceleration of free fall, \( d \) is the internal diameter of the tube, \( l \) is the length of the tube and \( \eta \) is a constant.  
+
+Design a laboratory experiment to test the relationship between \( Q \) and \( h \) and determine a value for \( \eta \). You should draw a diagram, on page 3, showing the arrangement of your equipment. In your account you should pay particular attention to  
+
+(a) the procedure to be followed,  
+
+(b) the measurements to be taken,  
+
+(c) the control of variables,  
+
+(d) the analysis of the data,  
+
+(e) the safety precautions to be taken."
+20,"1 Planning (15 marks)  
+Defining the problem (3 marks)  
+P \(r\) is the independent variable or vary \(r\). [1]  
+P \(T\) (or \(t\)) is the dependent variable or measure \(T\) (or \(t\)). [1]  
+P Keep the radius of curvature (of the track) or \(C\) constant (or radius of track constant). Do not allow “use same track”. [1]  
+
+Methods of data collection (5 marks)  
+M Diagram showing ball in a (curved) track with supports for track, e.g. retort stands. Minimum of two labels (from ball, track, supports; not stopwatch, bench, micrometer). Supports making contact with track higher than ball/at least half way up. [1]  
+M Measure time using stopwatch or light gates and timer or datalogger with motion sensor. Detail needed for video camera. [1]  
+M Use many oscillations (at least 10 or at least 10 s of timing) and determine \(T = \frac{t}{n}\). [1]  
+M Measure diameter (radius) of ball with a micrometer/vernier calipers. Do not allow travelling microscope. [1]  
+M radius = diameter/2. [1]  
+
+Method of analysis (2 marks)  
+A Plot a graph of \(T^2\) against \(r\) (or \(r\) against \(T^2\)). Do not allow log graphs. [1]  
+A \(C = \frac{5g}{28\pi^2} \times \text{y-intercept}\) (or for \(r\) against \(T^2\), \(C = \text{y-intercept}\)). [1]  
+
+Safety considerations (1 mark)  
+S Precaution linked to ball escaping on to floor, e.g. use barrier/safety screen/sand tray to prevent balls rolling on to floor. [1]  
+
+Additional detail (4 marks)  
+D Relevant points might include [4]  
+1 Add weights to/G-clamp retort stands  
+2 Keep the material/density of the ball constant  
+3 Use of fiducial marker near centre of track/mark on the track  
+4 Clean track/balls. Do not allow oil the track.  
+5 Repeat measurements of \(t\) (for each ball) and average  
+6 Repeat measurement for \(d\) (or \(r\)) and average  
+7 Relationship is valid if straight line, provided plotted graph is correct  
+8 Relationship is valid if straight line not passing through origin or has an intercept, provided plotted graph is correct (e.g. \(y\)-intercept = \(\frac{28\pi^2}{5g}C\))  
+
+[Total: 15]","1 A ball rolls forwards and backwards on a curved track as shown in Fig. 1.1.
+
+\begin{center}
+flexible track \\
+ball \\
+Fig. 1.1
+\end{center}
+
+It is suggested that the period \(T\) of the oscillations is related to the radius \(r\) of the ball and the radius of curvature \(C\) of the track by the relationship  
+\[
+T^2 = \frac{28\pi^2}{5g}(C - r)
+\]  
+where \(g\) is the acceleration of free fall.  
+
+You are provided with a flexible track. Design a laboratory experiment to test the relationship between \(T\) and \(r\). Explain how your results could be used to determine a value for \(C\). You should draw a diagram showing the arrangement of your equipment. In your account you should pay particular attention to  
+(a) the procedure to be followed,  
+(b) the measurements to be taken,  
+(c) the control of variables,  
+(d) the analysis of the data,  
+(e) the safety precautions to be taken.  
+
+[15]"
+21,"1 Planning (15 marks)  
+Defining the problem (3 marks)  
+P r is the independent variable or vary r. [1]  
+P T (or t) is the dependent variable or measure T (or t). [1]  
+P Keep the radius of curvature (of the track) or C constant (or radius of track constant). Do not allow “use same track”. [1]  
+
+Methods of data collection (5 marks)  
+M Diagram showing ball in a (curved) track with supports for track, e.g. retort stands. Minimum of two labels (from ball, track, supports; not stopwatch, bench, micrometer). Supports making contact with track higher than ball/at least half way up. [1]  
+M Measure time using stopwatch or light gates and timer or datalogger with motion sensor. Detail needed for video camera. [1]  
+M Use many oscillations (at least 10 or at least 10 s of timing) and determine \(T = \frac{t}{n}\). [1]  
+M Measure diameter (radius) of ball with a micrometer/vernier calipers. Do not allow travelling microscope. [1]  
+M radius = diameter/2. [1]  
+
+Method of analysis (2 marks)  
+A Plot a graph of \(T^2\) against \(r\) (or \(r\) against \(T^2\)). Do not allow log graphs. [1]  
+A \(C = \frac{5g \times \text{y-intercept}}{28\pi^2}\) (or for \(r\) against \(T^2\), \(C = \text{y-intercept}\)). [1]  
+
+Safety considerations (1 mark)  
+S Precaution linked to ball escaping on to floor, e.g. use barrier/safety screen/sand tray to prevent balls rolling on to floor. [1]  
+
+Additional detail (4 marks)  
+D Relevant points might include [4]  
+1 Add weights to/G-clamp retort stands  
+2 Keep the material/density of the ball constant  
+3 Use of fiducial marker near centre of track/mark on the track  
+4 Clean track/balls. Do not allow oil the track.  
+5 Repeat measurements of \(t\) (for each ball) and average  
+6 Repeat measurement for \(d\) (or \(r\)) and average  
+7 Relationship is valid if straight line, provided plotted graph is correct  
+8 Relationship is valid if straight line not passing through origin or has an intercept, provided plotted graph is correct (e.g. \(\text{y-intercept} = \frac{28\pi^2 C}{5g}\)).","1 A ball rolls forwards and backwards on a curved track as shown in Fig. 1.1.  
+flexible track  
+ball  
+Fig. 1.1  
+
+It is suggested that the period \(T\) of the oscillations is related to the radius \(r\) of the ball and the radius of curvature \(C\) of the track by the relationship  
+\[
+T^2 = \frac{28\pi^2}{5g}(C - r)
+\]  
+where \(g\) is the acceleration of free fall.  
+
+You are provided with a flexible track. Design a laboratory experiment to test the relationship between \(T\) and \(r\). Explain how your results could be used to determine a value for \(C\). You should draw a diagram showing the arrangement of your equipment. In your account you should pay particular attention to  
+(a) the procedure to be followed,  
+(b) the measurements to be taken,  
+(c) the control of variables,  
+(d) the analysis of the data,  
+(e) the safety precautions to be taken."
+22,"1 Planning (15 marks)  
+**Defining the problem (3 marks)**  
+P V is the independent variable, or vary \(V\) and \(f\) is the dependent variable, or measure \(f\).  
+Or \(f\) is the independent variable, or vary \(f\) and \(V\) is the dependent variable, or measure \(V\). [1]  
+P Change \(f\) (allow \(V\)) until the mass leaves/gap between plate. [1]  
+P Keep the position of the mass constant. (Do not allow keep mass constant.) [1]  
+
+**Methods of data collection (5 marks)**  
+M Labelled diagram showing signal generator/a.c. supply connected to vibrator with two wires with mass on plate. At least two labels needed. [1]  
+M Voltmeter/c.r.o. connected in parallel with vibrator in a workable circuit. [1]  
+M Measure \(f\) or \(T\) from signal generator/c.r.o. (Allow detailed use of motion sensor/stroboscope.) [1]  
+M Detail regarding mass leaving the plate: listen to noise, look for gap. [1]  
+M Repeat each experiment for the same value of \(V\) (allow \(f\) if consistent with above) and average. [1]  
+
+**Method of analysis (2 marks)**  
+Plot a graph of:  
+\(f^2\) against \(1/V\) or \(1/f^2\) against \(V\) or \(\lg f\) against \(\lg V\). [1]  
+\(k = \pi^2 \times \text{gradient}\) or \(k = \pi^2 \times 10^c\) or \(k = \pi^2 \times \text{gradient}^2\). [1]  
+
+**Safety considerations (1 mark)**  
+S Precaution linked to mass leaving vibrating plate, e.g. use safety screen/goggles/sand tray. [1]  
+
+**Additional detail (4 marks)**  
+D Relevant points might include [4]:  
+1 Wait for vibrator to oscillate evenly.  
+2 Method to determine period of oscillation from c.r.o., i.e. one time period × time-base.  
+3 Method to determine \(f\) from c.r.o. having determined \(T\), i.e. \(f = 1/T\).  
+4 Method to determine \(V\) from c.r.o., i.e. amplitude (height) × y-gain.  
+5 Relationship is valid if the graph is a straight line passing through the origin.  
+6 Determine \(f\) (allow \(V\) if consistent with above) by increasing and decreasing \(V\) or \(f\).  
+7 Clean surfaces of metal plate/small mass.  
+8 Spirit level to keep plate horizontal/eye level to look for gap.","A student is investigating simple harmonic motion using an electric vibrator. A plate is attached to the top of the electric vibrator. A small mass is placed on the metal plate as shown in Fig. 1.1.
+
+\begin{figure}[h]
+\centering
+\caption{}
+\label{fig:1.1}
+\end{figure}
+
+metal plate  
+small mass  
+vibrator  
+
+An alternating potential difference (p.d.) is applied to the vibrator. For a given peak p.d. \(V\), there is a maximum frequency \(f\) at which the small mass remains in contact with the plate. The contact between the small mass and plate is lost when the frequency is greater than \(f\).  
+
+It is suggested that the relationship between \(f\) and \(V\) is  
+\[
+k = \pi^2 f^2 V
+\]  
+where \(k\) is a constant.  
+
+Design a laboratory experiment to test the relationship between \(f\) and \(V\). Explain how your results could be used to determine a value for \(k\). You should draw a diagram showing the arrangement of your equipment. In your account you should pay particular attention to  
+(a) the procedure to be followed,  
+(b) the measurements to be taken,  
+(c) the control of variables,  
+(d) the analysis of the data,  
+(e) the safety precautions to be taken."
+23,"1 Planning (15 marks)  
+**Defining the problem (3 marks)**  
+P V is the independent variable, or vary \(V\) and \(f\) is the dependent variable, or measure \(f\).  
+Or \(f\) is the independent variable, or vary \(f\) and \(V\) is the dependent variable, or measure \(V\). [1]  
+P Change \(f\) (allow \(V\)) until the mass leaves/gap between plate. [1]  
+P Keep the position of the mass constant. [1]  
+
+**Methods of data collection (5 marks)**  
+M Labelled diagram showing signal generator/a.c. supply connected to vibrator with two wires with mass on plate. [1]  
+M Voltmeter/c.r.o. connected in parallel with vibrator in a workable circuit. [1]  
+M Measure \(f\) or \(T\) from signal generator/c.r.o. [1]  
+M Detail regarding mass leaving the plate: listen to noise, look for gap. [1]  
+M Repeat each experiment for the same value of \(V\) (allow \(f\)) and average. [1]  
+
+**Method of analysis (2 marks)**  
+A Plot a graph of \(f^2\) against \(1/V\) or \(1/f^2\) against \(V\). [1]  
+A \(k = \pi^2 \times \text{gradient}\) or \(k = \pi^2 / \text{gradient}\). [1]  
+
+**Safety considerations (1 mark)**  
+S Precaution linked to mass leaving vibrating plate, e.g. use safety screen/goggles. [1]  
+
+**Additional detail (4 marks)**  
+D Relevant points include:  
+1 Wait for vibrator to oscillate evenly.  
+2 Determine period \(T\) from c.r.o. (time period × time-base).  
+3 \(f = 1/T\).  
+4 Determine \(V\) from c.r.o. (amplitude × y-gain).  
+5 Relationship valid if graph is straight line through origin.  
+6 Determine \(f\) by increasing/decreasing \(V\).  
+7 Clean surfaces of plate/mass.  
+8 Spirit level to keep plate horizontal. [4]","1 A student is investigating simple harmonic motion using an electric vibrator. A plate is attached to the top of the electric vibrator. A small mass is placed on the metal plate as shown in Fig. 1.1.
+
+\begin{center}
+metal plate \\
+small mass \\
+vibrator \\
+Fig. 1.1
+\end{center}
+
+An alternating potential difference (p.d.) is applied to the vibrator. For a given peak p.d. \(V\), there is a maximum frequency \(f\) at which the small mass remains in contact with the plate. The contact between the small mass and plate is lost when the frequency is greater than \(f\).
+
+It is suggested that the relationship between \(f\) and \(V\) is  
+\(k = \pi^2 f^2 V\)  
+where \(k\) is a constant.
+
+Design a laboratory experiment to test the relationship between \(f\) and \(V\). Explain how your results could be used to determine a value for \(k\). You should draw a diagram showing the arrangement of your equipment. In your account you should pay particular attention to  
+(a) the procedure to be followed,  
+(b) the measurements to be taken,  
+(c) the control of variables,  
+(d) the analysis of the data,  
+(e) the safety precautions to be taken."
+24,"**Mark scheme**  
+**Defining the problem**  
+- \( \lambda \) is the independent variable, or vary \( \lambda \). [1]  
+- \( V \) is the dependent variable, or measure \( V \). [1]  
+
+**Methods of data collection**  
+- Circuit diagram showing d.c. power supply in series with diode (correct symbol needed) and method to measure potential difference across diode. Circuit must be correct. [1]  
+- Instrument to change p.d. across LED e.g. variable power supply/potential divider/variable resistor. [1]  
+- Record wavelength of light of LED from data sheet or use Young’s slits/diffraction grating. [1]  
+- (Slowly) increase potential difference across LED until LED (just) emits light (or reverse procedure). [1]  
+
+**Method of analysis**  
+- Plot a graph of \( \log V \) against \( \log \lambda \) (allow natural logs). Allow \( \log \lambda \) against \( \log V \). [1]  
+- \( n = \) gradient. [1]  
+- \( k = 10^{\text{y-intercept}} \). [1]  
+
+**Additional detail**  
+Relevant points include:  
+1. Use of a protective resistor (can be shown on the diagram).  
+2. Polarity of LED correct in circuit diagram.  
+3. Instrument to determine when LED just lights e.g. light meter/detector, LDR.  
+4. Method to use light detector/LDR to determine point at which LED emits light.  
+5. Expression that gives \( \lambda \) (symbols need to be defined) from experimental determination of wavelength of light, e.g. Young’s slits/diffraction grating.  
+6. Perform experiment in a dark room/LED in tube.  
+7. Relationship is valid if graph is a straight line.  
+8. \( \log V = n \log \lambda + \log k \).  
+9. Repeat \( V \) and average for the same \( \lambda \) or LED.  
+
+*Do not allow vague computer methods.*","1 A student is investigating the characteristics of different light-emitting diodes (LEDs). Fig. 1.1 shows examples of LEDs and the circuit symbol for an LED.  
+
+blue  
+red  
+circuit symbol:  
+
+Fig 1.1  
+
+Each LED needs a minimum potential difference \( V \) across it to emit light. The student is investigating the relationship between \( V \) and the wavelength \( \lambda \) of the light emitted by the LED for several different LEDs.  
+
+It is suggested that the relationship is  
+\[ V = k\lambda^n \]  
+where \( k \) and \( n \) are constants.  
+
+Design a laboratory experiment to test the relationship between \( V \) and \( \lambda \). Explain how your results could be used to determine values for \( k \) and \( n \). You should draw a diagram showing the arrangement of your equipment. In your account you should pay particular attention to  
+- the procedure to be followed,  
+- the measurements to be taken,  
+- the control of variables,  
+- the analysis of the data,  
+- any safety precautions to be taken.  
+
+[15]"
+25,"Defining the problem (2 marks)  
+- P \(\lambda\) is the independent variable, or vary \(\lambda\). [1]  
+- P \(V\) is the dependent variable, or measure \(V\). [1]  
+
+Methods of data collection (4 marks)  
+- M Circuit diagram showing d.c. power supply in series with diode (correct symbol needed) and method to measure potential difference across diode. Circuit must be correct. [1]  
+- M Instrument to change p.d. across LED e.g. variable power supply/potential divider/variable resistor. [1]  
+- M Record wavelength of light of LED from data sheet or use Young’s slits/diffraction grating. [1]  
+- M (Slowly) increase potential difference across LED until LED (just) emits light (or reverse procedure). [1]  
+
+Method of analysis (3 marks)  
+- A Plot a graph of \(\lg V\) against \(\lg \lambda\) (allow natural logs). Allow \(\lg \lambda\) against \(\lg V\). [1]  
+- A \(n = \text{gradient}\). [1]  
+- A \(k = 10^{\text{y-intercept}}\). [1]  
+
+Additional detail (6 marks)  
+1 Use of a protective resistor (can be shown on the diagram).  
+2 Polarity of LED correct in circuit diagram.  
+3 Instrument to determine when LED just lights e.g. light meter/detector, LDR.  
+4 Method to use light detector/LDR to determine point at which LED emits light.  
+5 Expression that gives \(\lambda\) (symbols need to defined) from experimental determination of wavelength of light, e.g. Young’s slits/diffraction grating.  
+6 Perform experiment in a dark room/LED in tube.  
+7 Relationship is valid if graph is a straight line.  
+8 \(\lg V = n \lg \lambda + \lg k\).  
+9 Repeat \(V\) and average for the same \(\lambda\) or LED.  
+Do not allow vague computer methods.","1 A student is investigating the characteristics of different light-emitting diodes (LEDs). Fig. 1.1 shows examples of LEDs and the circuit symbol for an LED.  
+
+blue red  
+circuit symbol:  
+
+Fig 1.1  
+
+Each LED needs a minimum potential difference \( V \) across it to emit light. The student is investigating the relationship between \( V \) and the wavelength \( \lambda \) of the light emitted by the LED for several different LEDs.  
+
+It is suggested that the relationship is  
+\[ V = k \lambda^n \]  
+where \( k \) and \( n \) are constants.  
+
+Design a laboratory experiment to test the relationship between \( V \) and \( \lambda \). Explain how your results could be used to determine values for \( k \) and \( n \). You should draw a diagram showing the arrangement of your equipment. In your account you should pay particular attention to  
+- the procedure to be followed,  
+- the measurements to be taken,  
+- the control of variables,  
+- the analysis of the data,  
+- any safety precautions to be taken.  
+
+[15]"
+26,"1. \(\sin \theta\) is the independent variable and \(v\) is the dependent variable or vary \(\sin \theta\) and measure \(v\)  
+2. keep \(s\) (PQ) constant  
+3. labelled diagram showing inclined plane with labelled support and \(P\) and \(Q\) marked  
+4. method to measure angle e.g. use a protractor to measure \(\theta\) or use a ruler to measure marked distances from which \(\sin \theta\) or \(\theta\) may be determined  
+5. method of timing for an appropriate distance to determine \(v\) (at \(Q\)) e.g. use a stopwatch/timer or correctly positioned light gate(s) connected to a timer/data-logger or correctly positioned motion sensor connected to data-logger  
+6. measurement of an appropriate distance to determine \(v\) (at \(Q\)) e.g. rule to measure an appropriate length or length of a card to interrupt light beam or distance from motion sensor to \(Q\)  
+7. plot a graph of \(v^2\) against \(\sin \theta\)  
+8. relationship valid if a straight line produced (not passing through the origin)  
+9. \(g = -\text{gradient} \times \frac{B + m}{2ms}\) or \(g = \text{y-intercept} \times \frac{B + m}{2Bs}\)  
+D1. use cushion/foam/sandbox for falling body \(B\)  
+D2. \(\sin \theta\) determined using trigonometry relationship using marked lengths  
+D3. appropriate equation to determine \(v\) (at \(Q\)) e.g. \(v = \frac{2s}{t}\)  
+D4. repeat experiment for each \(\theta\) and average \(v\) or \(t\)  
+D5. use of balance to measure mass of wooden block \(m\) and falling body \(B\) and rule to measure \(s\)  
+D6. \(\text{y-intercept} = \frac{2Bsg}{B + m}\)  
+D7. clean surfaces of blocks/inclined plane/ensure surface of the plane is smooth  
+D8. keep \(B\) and \(m\) constant or keep mass of block and mass of falling body constant  
+D9. method to ensure that wooden block starts at the same position \(P\), e.g. put a mark on the block or align front or back of block  
+D10. method to prevent plane slipping so that angle being measured remains the same, e.g. a mass as a stop","1 A student is investigating the motion of a wooden block on an inclined plane, as shown in Fig. 1.1.  
+A falling body causes the wooden block to accelerate.  
+
+\begin{figure}[h]  
+\centering  
+\caption{Fig. 1.1}  
+\end{figure}  
+
+The wooden block is initially at rest at point \(P\) and has velocity \(v\) at point \(Q\).  
+It is suggested that the relationship between \(v\) and the angle \(\theta\) of the plane to the horizontal is  
+\[
+\frac{(B + m)v^2}{2s} = Bg - mg \sin \theta
+\]  
+where \(B\) is the mass of the falling body, \(m\) is the mass of the wooden block, \(s\) is the distance between \(P\) and \(Q\), and \(g\) is the acceleration of free fall.  
+
+Design a laboratory experiment to test the relationship between \(v\) and \(\theta\). Explain how your results could be used to determine a value for \(g\). You should draw a diagram showing the arrangement of your equipment. In your account you should pay particular attention to  
+- the procedure to be followed,  
+- the measurements to be taken,  
+- the control of variables,  
+- the analysis of the data,  
+- any safety precautions to be taken.  
+
+[15]"
+27,"1. Defining the problem  
+\(\sin \theta\) is the independent variable and \(v\) is the dependent variable or vary \(\sin \theta\) and measure \(v\)  
+keep \(s\) (PQ) constant  
+
+2. Methods of data collection  
+Labelled diagram showing inclined plane with labelled support and \(P\) and \(Q\) marked  
+Method to measure angle e.g. use a protractor to measure \(\theta\) or use a ruler to measure marked distances from which \(\sin \theta\) or \(\theta\) may be determined  
+Method of timing for an appropriate distance to determine \(v\) (at \(Q\)) e.g. use a stopwatch/timer or correctly positioned light gate(s) connected to a timer/data-logger or correctly positioned motion sensor connected to data-logger  
+Measurement of an appropriate distance to determine \(v\) (at \(Q\)) e.g. rule to measure an appropriate length or length of a card to interrupt light beam or distance from motion sensor to \(Q\)  
+
+3. Method of analysis  
+Plot a graph of \(v^2\) against \(\sin \theta\)  
+Relationship valid if a straight line produced (not passing through the origin)  
+\(g = -\text{gradient} \times \frac{B + m}{2ms}\)  
+or  
+\(g = \text{y-intercept} \times \frac{B + m}{2Bs}\)  
+
+4. Additional detail including safety considerations  
+Use cushion/foam/sandbox for falling body \(B\)  
+\(\sin \theta\) determined using trigonometry relationship using marked lengths  
+Appropriate equation to determine \(v\) (at \(Q\)) e.g. \(v = \frac{2s}{t}\)  
+Repeat experiment for each \(\theta\) and average \(v\) or \(t\)  
+Use of balance to measure mass of wooden block \(m\) and falling body \(B\) and rule to measure \(s\)  
+\(\text{y-intercept} = \frac{2Bsg}{B + m}\)  
+Clean surfaces of blocks/inclined plane/ensure surface of the plane is smooth  
+Keep \(B\) and \(m\) constant or keep mass of block and mass of falling body constant  
+Method to ensure that wooden block starts at the same position \(P\), e.g. put a mark on the block or align front or back of block  
+Method to prevent plane slipping so that angle being measured remains the same, e.g. a mass as a stop","1 A student is investigating the motion of a wooden block on an inclined plane, as shown in Fig. 1.1.  
+A falling body causes the wooden block to accelerate.  
+
+\begin{figure}[h]  
+\centering  
+\caption{Fig. 1.1}  
+\end{figure}  
+
+The wooden block is initially at rest at point \(P\) and has velocity \(v\) at point \(Q\).  
+It is suggested that the relationship between \(v\) and the angle \(\theta\) of the plane to the horizontal is  
+\[
+\frac{(B + m)v^2}{2s} = Bg - mg \sin \theta
+\]  
+where \(B\) is the mass of the falling body, \(m\) is the mass of the wooden block, \(s\) is the distance between \(P\) and \(Q\), and \(g\) is the acceleration of free fall.  
+
+Design a laboratory experiment to test the relationship between \(v\) and \(\theta\). Explain how your results could be used to determine a value for \(g\). You should draw a diagram showing the arrangement of your equipment. In your account you should pay particular attention to  
+- the procedure to be followed,  
+- the measurements to be taken,  
+- the control of variables,  
+- the analysis of the data,  
+- any safety precautions to be taken."
+28,"1. **Defining the problem**  
+   - \(V\) is the independent variable and \(F\) is the dependent variable or vary \(V\) and measure \(F\).  
+   - Keep \(r\) constant.  
+
+2. **Methods of data collection**  
+   - Labelled diagram showing:  
+     - Sphere T suspended (clamp/ceiling).  
+     - Sphere S on top-pan balance vertically below T.  
+     - Voltmeter/power supply and ruler.  
+   - \(F =\) difference in balance readings when spheres are charged vs. uncharged.  
+   - Voltmeter connected to power supply or read \(V\) from EHT supply.  
+   - Measure \(r\) with a ruler.  
+
+3. **Method of analysis**  
+   - Plot graph of \(F\) against \(V\) (allow log-log).  
+   - Straight line through origin validates \(F \propto V\).  
+   - \(\alpha = \text{gradient} \times r^2\).  
+
+4. **Additional detail (safety & procedures)**  
+   - **D1:** Safety: Insulating gloves/shrouded leads to prevent electric shock.  
+   - **D2:** Insulator between sphere and balance/stand.  
+   - **D3:** Discharge spheres by earthing.  
+   - **D4:** Measure \(r\) via sphere radii + gap or fiducial marks.  
+   - **D5:** Use calipers/micrometer for sphere diameter.  
+   - **D6:** \(F = \Delta mg\) from balance readings.  
+   - **D7:** Repeat readings for each \(V\).  
+   - **D8:** Read balance quickly to minimise discharge.  
+   - **D9:** Recharge S periodically to maintain charge.  
+   - **D10:** Avoid drafts to stabilise spheres.","1 A student is investigating the force between two charged metal spheres S and T, as shown in Fig. 1.1.
+
+\begin{figure}[h]
+\centering
+\caption{Fig. 1.1}
+\end{figure}
+
+Each sphere may be charged by connecting the positive lead from a power supply to the sphere and then removing the lead. The electromotive force (e.m.f.) of the power supply used to charge sphere T is \(V\).
+
+The force \(F\) between the two charged spheres may be determined by attaching sphere S to a top pan balance.
+
+For a constant charge on sphere S, it is suggested that the relationship between \(F\) and \(V\) is  
+\[
+F = \frac{\alpha V}{r^2}
+\]  
+where \(r\) is the distance between the centres of the spheres and \(\alpha\) is a constant.
+
+Design a laboratory experiment to test the relationship between \(F\) and \(V\).  
+Explain how your results could be used to determine a value for \(\alpha\).  
+
+You should draw a diagram showing the arrangement of your equipment. In your account you should pay particular attention to  
+- the procedure to be followed,  
+- the measurements to be taken,  
+- the control of variables,  
+- the analysis of the data,  
+- any safety precautions to be taken."
+29,"1. Defining the problem  
+V is the independent variable and \(F\) is the dependent variable or vary \(V\) and measure \(F\).  
+keep \(r\) constant  
+
+2. Methods of data collection  
+labelled diagram of workable experiment including:  
+• T suspended (clamp or ceiling)  
+• S on top-pan balance vertically below T  
+• T and S labelled and at least one other label.  
+\(F\) = difference/change in balance readings when sphere(s) (S) is uncharged and charged.  
+voltmeter across a power supply (with flying lead) or read \(V\) from high voltage power supply/EHT power supply  
+measure \(r\) with a rule  
+
+3. Method of analysis  
+plot a graph of \(F\) against \(V\)  
+relationship valid if a straight line passing through the origin is produced  
+\(\alpha = \text{gradient} \times r^2\)  
+
+4. Additional detail including safety considerations  
+D1: Safety precaution linked to avoiding shock/high voltages  
+D2: Use of insulator between sphere S and balance  
+D3: Discharge sphere(s) by earthing  
+D4: Determine radius of each sphere and add distance between spheres  
+D5: Use calipers/micrometer to measure diameter of spheres  
+D6: Use \(\Delta mg\) to determine \(F\)  
+D7: Repeat experiment for each \(V\) and average \(F\)  
+D8: Take reading quickly to avoid discharge  
+D9: Method to ensure charge on S is constant  
+D10: Avoid draughts to prevent T moving","1 A student is investigating the force between two charged metal spheres S and T, as shown in Fig. 1.1.
+
+\vspace{0.5cm}
+
+\begin{center}
+\textbf{Diagram}
+\end{center}
+
+\vspace{0.5cm}
+
+Each sphere may be charged by connecting the positive lead from a power supply to the sphere and then removing the lead. The electromotive force (e.m.f.) of the power supply used to charge sphere T is \( V \).
+
+The force \( F \) between the two charged spheres may be determined by attaching sphere S to a top pan balance.
+
+For a constant charge on sphere S, it is suggested that the relationship between \( F \) and \( V \) is  
+\[
+F = \frac{\alpha V}{r^2}
+\]  
+where \( r \) is the distance between the centres of the spheres and \( \alpha \) is a constant.
+
+Design a laboratory experiment to test the relationship between \( F \) and \( V \). Explain how your results could be used to determine a value for \( \alpha \).
+
+You should draw a diagram, on page 3, showing the arrangement of your equipment. In your account you should pay particular attention to  
+- the procedure to be followed,  
+- the measurements to be taken,  
+- the control of variables,  
+- the analysis of the data,  
+- any safety precautions to be taken."
+30,"1. Defining the problem  
+- \( L \) is the independent variable and \( s \) is the dependent variable or vary \( L \) and measure \( s \)  
+- keep mass of load or \( M \) constant  
+
+2. Methods of data collection  
+- labelled diagram of workable experiment including:  
+  - method of fixing strip at one end, e.g. with a G-clamp or (heavy) mass  
+  - load shown touching at point P  
+  - load and G-clamp or (heavy) mass labelled  
+- method of attaching load to strip, e.g. use glue/tape/attach with a hook and string  
+- use a rule to measure \( L \) and \( s \)  
+- use a balance to measure \( M \)  
+
+3. Method of analysis  
+- plot a graph of \( s \) against \( L^3 \) (allow \( \lg s \) against \( \lg L \), or log)  
+- relationship valid if a straight line through (0,0)  
+  (for \( \lg s \) against \( \lg L \), gradient of straight line = 3)  
+- \( E = \frac{4Mg}{bt^3 \times \text{gradient}} \)  
+  (for \( \lg s \) against \( \lg L \), \( E = \frac{4Mg}{bt^3 \times 10^{\text{y-intercept}}} \))  
+
+4. Additional detail including safety considerations  
+- use cushion/foam/sandbox in case mass/load falls or wear goggles  
+- use same wooden strip or keep \( b \) and \( t \) constant  
+- clamp rule vertically to measure \( s \)  
+- method to ensure vertical rule alignment, e.g. set square or plumb line  
+- \( s = \) loaded reading \( - \) unloaded reading  
+- repeat \( s \) measurements for each \( L \) and average  
+- use micrometer/calipers to determine \( t \)  
+- repeat readings for \( b \) and \( t \) and average  
+- ensure strip is perpendicular to bench, e.g. check \( L \) on both sides  
+- wait until strip is stationary before measuring \( s \)","1 A student is investigating the bending of a loaded wooden strip. Fig. 1.1 shows a rectangular strip of width \( b \) and thickness \( t \) overhanging the edge of a bench. A length \( L \) of the strip is unsupported.  
+
+A load of mass \( M \) is positioned at point P. This causes the unsupported part of the strip to bend with a deflection \( s \), as shown in Fig. 1.2.  
+
+It is suggested that the relationship between \( s \) and \( L \) is  
+\[
+E = \frac{4MgL^3}{bst^3}
+\]  
+where \( g \) is the acceleration of free fall and \( E \) is the Young modulus of the wood.  
+
+Design a laboratory experiment to test the relationship between \( s \) and \( L \).  
+Explain how your results could be used to determine a value for \( E \).  
+
+You should draw a diagram showing the arrangement of your equipment. In your account you should pay particular attention to:  
+- the procedure to be followed  
+- the measurements to be taken  
+- the control of variables  
+- the analysis of the data  
+- any safety precautions to be taken."
+31,"1 Defining the problem  
+L is the independent variable and s is the dependent variable or vary \( L \) and measure \( s \)\hspace{1cm}1  
+keep mass of load or \( M \) constant\hspace{1cm}1  
+
+Methods of data collection  
+labelled diagram of workable experiment including:\hspace{1cm}1  
+• method of fixing strip at one end, e.g. with a G-clamp or (heavy) mass placed on top of strip over bench  
+• load shown touching at point \( P \)  
+• load and G-clamp or (heavy) mass labelled  
+method of attaching load to strip, e.g. use glue/tape/attach with a hook and string\hspace{1cm}1  
+use a rule to measure \( L \) and \( s \)\hspace{1cm}1  
+use a balance to measure \( M \)\hspace{1cm}1  
+
+Method of analysis  
+plot a graph of \( s \) against \( L^3 \) (allow \(\lg s\) against \(\lg L\), or log)\hspace{1cm}1  
+relationship valid if a straight line through \((0,0)\)\hspace{1cm}1  
+(for \(\lg s\) against \(\lg L\) gradient of straight line = 3)  
+\[
+E = \frac{4Mg}{bt^3 \times \text{gradient}}
+\]  
+(for \(\lg s\) against \(\lg L\), \( E = \frac{4Mg}{bt^3} \div 10^{y-\text{intercept}} \))  
+
+Additional detail including safety considerations  
+D1 use cushion/foam/sandbox in case mass/load falls  
+or  
+wear goggles in case strip snaps or recoils  
+D2 use same wooden strip or keep \( b \) and \( t \) constant  
+D3 clamp rule vertically to measure \( s \)  
+D4 method to ensure clamped rule to measure \( s \) is vertical, e.g. correctly positioned set square indicated at right angles to the horizontal surface or plumb line shown in appropriate position  
+D5 \( s = \) reading of vertical rule with loaded strip – reading of vertical rule with no load  
+D6 repeat \( s \) measurement for each \( L \) (unloading and loading strip) and average \( s \)  
+D7 use a micrometer/calipers to determine \( t \)  
+D8 repeat readings for \( b \) and/or \( t \) at different points along/across the strip and average  
+D9 method to ensure strip is perpendicular to the bench, e.g. repeat measurements of \( L \) on each side of strip to check that \( L \) is constant or set square correctly indicated on diagram  
+D10 wait until block is stationary/in equilibrium or measure \( s \) after a fixed time","1 A student is investigating the bending of a loaded wooden strip. Fig. 1.1 shows a rectangular strip of width \( b \) and thickness \( t \) overhanging the edge of a bench. A length \( L \) of the strip is unsupported.
+
+\begin{figure}[h]
+\centering
+\caption{Fig. 1.1}
+\end{figure}
+
+A load of mass \( M \) is positioned at point \( P \). This causes the unsupported part of the strip to bend with a deflection \( s \), as shown in Fig. 1.2.
+
+\begin{figure}[h]
+\centering
+\caption{Fig. 1.2 (not to scale)}
+\end{figure}
+
+It is suggested that the relationship between \( s \) and \( L \) is  
+\[
+E = \frac{4MgL^3}{bst^3}
+\]  
+where \( g \) is the acceleration of free fall and \( E \) is the Young modulus of the wood.  
+
+Design a laboratory experiment to test the relationship between \( s \) and \( L \).  
+Explain how your results could be used to determine a value for \( E \).  
+
+You should draw a diagram showing the arrangement of your equipment. In your account you should pay particular attention to:  
+- the procedure to be followed  
+- the measurements to be taken  
+- the control of variables  
+- the analysis of the data  
+- any safety precautions to be taken."
+32,"1. **Defining the problem**  
+   - \(A\) is the independent variable and \(k\) is the dependent variable or vary \(A\) and measure \(k\). (1 mark)  
+   - Keep \(N\) constant. (1 mark)  
+
+2. **Methods of data collection**  
+   - Labelled diagram of workable experiment including:  
+     - Spring fixed at one end to a support.  
+     - Load attached to the other end of the spring.  
+     - Labelled load. (1 mark)  
+   - Method to measure mass or weight of load: use top-pan balance to measure mass or newton meter to measure weight. (1 mark)  
+   - Use of a micrometer/calipers to determine \(t\) and rule/calipers to measure the diameter of the spring. (1 mark)  
+   - Method to measure extension, e.g. labelled ruler drawn parallel to spring, equilibrium position and displaced position indicated and \(x\) indicated or description of use of ruler to measure equilibrium position and displaced position and difference determined. (1 mark)  
+
+3. **Method of analysis**  
+   - Plot a graph of \(k\) against \(1/A^{3/2}\) (or \(A^{-3/2}\)) or equivalent e.g. \(\lg k\) against \(\lg A\). (1 mark)  
+   - Relationship valid if a straight line passing through the origin is produced. (1 mark)  
+     (For \(\lg k\) against \(\lg A\), relationship valid if a straight line with gradient \(-3/2\).)  
+   - \(\beta = \frac{\text{gradient} \times N}{\rho t^4}\). (1 mark)  
+     [For \(\lg k\) against \(\lg A\), \(\beta = \frac{10^{\text{y-intercept}} \times N}{\rho t^4}\).]  
+
+4. **Additional detail including safety considerations** (6 marks)  
+   - **D1:** Use safety goggles/safety screen to prevent injury to eyes from (moving) spring/load or use cushion/sand box in case load falls.  
+   - **D2:** Keep \(t\) constant.  
+   - **D3:** \(k = \frac{mg}{x}\) or \(k = \frac{F}{x}\).  
+   - **D4:** Use of set square when taking measurements to determine extension of spring.  
+   - **D5:** Repeat measurement of \(t\) along wire/spring and average.  
+   - **D6:** Repeat measurement of diameter \(D\) of spring (to determine \(A\)) in different directions and average.  
+   - **D7:** Use of \(A = \frac{\pi D^2}{4}\).  
+   - **D8:** Method to ensure clamped rule to measure extension is vertical, e.g. correctly positioned set square indicated at right angles between the rule and the horizontal surface or plumb line shown in appropriate position.  
+   - **D9:** Method to determine the density of the wire or additional detail on construction of coil.  
+   - **D10:** Method to determine the mean diameter of the spring, e.g. subtract \(t\) from external diameter of spring.","1 A student investigates springs made of metal wire, as shown in Fig. 1.1.
+
+\begin{figure}[h]
+\centering
+\caption{Fig. 1.1}
+\begin{tikzpicture}
+\draw (0,0) -- (2,0) node[midway, below] {cross-sectional area \(A\)};
+\draw (1,0) -- (1,3) node[midway, right] {metal wire};
+\end{tikzpicture}
+\end{figure}
+
+The student constructs several springs from wire of thickness \(t\). Each spring has a different cross-sectional area \(A\).  
+The student investigates how the spring constant \(k\) varies with \(A\).  
+
+It is suggested that the relationship between \(k\) and \(A\) is  
+\[
+k = \frac{\beta \rho t^4}{A^2 N}
+\]  
+where \(\rho\) is the density of the metal, \(N\) is the number of turns of wire on the spring and \(\beta\) is a constant.  
+
+Design a laboratory experiment to test the relationship between \(k\) and \(A\).  
+Explain how your results could be used to determine a value for \(\beta\).  
+
+You should draw a diagram, on page 3, showing the arrangement of your equipment.  
+
+In your account you should pay particular attention to:  
+- the procedure to be followed  
+- the measurements to be taken  
+- the control of variables  
+- the analysis of the data  
+- any safety precautions to be taken."
+33,"1. **Defining the problem**  
+   – \( A \) is the independent variable and \( k \) is the dependent variable or vary \( A \) and measure \( k \).  
+   – Keep \( N \) constant.  
+
+2. **Methods of data collection**  
+   – Labelled diagram of workable experiment including:  
+     - Spring fixed at one end to a support.  
+     - Load attached to the other end of the spring.  
+     - Labelled load.  
+   – Method to measure mass or weight of load: use top-pan balance to measure mass or newton meter to measure weight.  
+   – Use of a micrometer/calipers to determine \( t \) and rule/calipers to measure the diameter of the spring.  
+   – Method to measure extension, e.g. labelled ruler drawn parallel to spring, equilibrium position and displaced position indicated and \( x \) indicated or description of use of ruler to measure equilibrium position and displaced position and difference determined.  
+
+3. **Method of analysis**  
+   – Plot a graph of \( k \) against \( \frac{1}{A^{3/2}} \) (or \( A^{-3/2} \)) or equivalent e.g. \( \lg k \) against \( \lg A \).  
+   – Relationship valid if a straight line passing through the origin is produced (for \( \lg k \) against \( \lg A \), relationship valid if a straight line with gradient \( -\frac{3}{2} \)).  
+   – \( \beta = \frac{\text{gradient} \times N}{\rho t^4} \).  
+   – [For \( \lg k \) against \( \lg A \), \( \beta = \frac{10^{\text{y-intercept}} \times N}{\rho t^4} \).]  
+
+4. **Additional detail including safety considerations**  
+   – Use safety goggles/safety screen to prevent injury to eyes from (moving) spring/load or use cushion/sand box in case load falls.  
+   – Keep \( t \) constant.  
+   – \( k = \frac{mg}{x} \) or \( \frac{F}{x} \).  
+   – Use of set square when taking measurements to determine extension of spring.  
+   – Repeat measurement of \( t \) along wire/spring and average.  
+   – Repeat measurement of diameter \( D \) of spring (to determine \( A \)) in different directions and average.  
+   – Use of \( A = \frac{\pi D^2}{4} \).  
+   – Method to ensure clamped rule to measure extension is vertical, e.g. correctly positioned set square indicated at right angles between the rule and the horizontal surface or plumb line shown in appropriate position.  
+   – Method to determine the density of the wire or additional detail on construction of coil.  
+   – Method to determine the mean diameter of the spring, e.g. subtract \( t \) from external diameter of spring.","1 A student investigates springs made of metal wire, as shown in Fig. 1.1.
+
+cross-sectional area \( A \)
+
+metal wire
+
+Fig. 1.1
+
+The student constructs several springs from wire of thickness \( t \). Each spring has a different cross-sectional area \( A \).
+
+The student investigates how the spring constant \( k \) varies with \( A \).
+
+It is suggested that the relationship between \( k \) and \( A \) is  
+\[ k = \frac{\beta \rho t^4}{3 A^2 N} \]  
+where \( \rho \) is the density of the metal, \( N \) is the number of turns of wire on the spring and \( \beta \) is a constant.
+
+Design a laboratory experiment to test the relationship between \( k \) and \( A \). Explain how your results could be used to determine a value for \( \beta \).
+
+You should draw a diagram showing the arrangement of your equipment.
+
+In your account you should pay particular attention to:  
+● the procedure to be followed  
+● the measurements to be taken  
+● the control of variables  
+● the analysis of the data  
+● any safety precautions to be taken."
+34,"**Mark Scheme**  
+
+1. **Defining the problem**  
+   - \( R \) is the independent variable and \( t \) is the dependent variable or vary \( R \) and measure \( t \).  
+   - Keep the number of turns on the coil \( N \) constant.  
+
+2. **Methods of data collection**  
+   - Labelled diagram or correct symbols including:  
+     - Labelled (d.c.) power supply.  
+     - Switch in series with power supply, resistor, and coil.  
+     - Complete workable circuit.  
+   - Circuit diagram to measure \( R \), e.g., ammeter and voltmeter correctly positioned or \( R \) connected to ohmmeter with no other connections.  
+   - Method to determine \( t \) (of a few milliseconds), e.g., use (storage) oscilloscope or current/voltage sensor connected to datalogger/computer.  
+   - Method to determine \( A \), e.g., micrometer/calipers to determine diameter of coil and \( A = \frac{\pi d^2}{4} \).  
+
+3. **Method of analysis**  
+   - Plot a graph of \( t \) against \( \frac{1}{R} \).  
+   - Relationship valid if a straight line passing through the origin is produced.  
+   - \( K = \frac{\text{gradient} \times L}{A N^2} \).  
+
+4. **Additional detail including safety considerations**  
+   - Open switch/switch off (high voltage) circuit before changing the resistor/touching components or ensure no bare wires/use shrouded connectors.  
+   - Wear (insulating) gloves to prevent electric shock/electrocution.  
+   - Keep \( A \) and \( L \) constant.  
+   - Use ruler/calipers to measure \( L \).  
+   - Repeat measurements of diameter in different directions/at points along the coil and average.  
+   - Method to determine \( R \), e.g., \( R = \frac{V}{I} \) linked to correct circuit diagram for ammeter/voltmeter method or measure resistance using ohmmeter.  
+   - Repeat experiment for each value of \( R \) and average \( t \).  
+   - Method to determine \( t \): use of time-base from oscilloscope explained or use of time axis of output from datalogger/computer explained.  
+   - Use smaller values of \( R \) to increase \( I \).  
+   - Reduce \( L \) or increase \( N \) or increase \( A \) to increase \( t \).","1 A student investigates the current in a coil and a resistor connected in series, as shown in Fig. 1.1.
+
+\begin{center}
+coil \\
+R \\
+\textbf{Fig. 1.1}
+\end{center}
+
+The student connects a high-voltage d.c. power supply and a switch across the series combination. When the switch is closed, it takes time \( t \) for the current in the resistor of resistance \( R \) to reach a maximum value. The time \( t \) is a few milliseconds. There are a number of different unmarked resistors available.
+
+It is suggested that the relationship between \( t \) and \( R \) is  
+\[
+t = \frac{KN^2A}{LR}
+\]  
+where \( N \) is the number of turns of wire on the coil, \( A \) is the cross-sectional area of the coil, \( L \) is the length of the coil and \( K \) is a constant.
+
+Design a laboratory experiment to test the relationship between \( t \) and \( R \). Explain how your results could be used to determine a value for \( K \).  
+
+You should draw a diagram showing the arrangement of your equipment. In your account you should pay particular attention to:  
+- the procedure to be followed  
+- the measurements to be taken  
+- the control of variables  
+- the analysis of the data  
+- any safety precautions to be taken."
+35,"1. Defining the problem  
+\- \( R \) is the independent variable and \( t \) is the dependent variable or vary \( R \) and measure \( t \)  
+\- Keep the number of turns on the coil \( N \) constant  
+
+2. Methods of data collection  
+\- Labelled diagram or correct symbols including:  
+  - Labelled (d.c.) power supply  
+  - Switch in series with power supply, resistor, and coil  
+  - Complete workable circuit  
+\- Circuit diagram to measure \( R \), e.g. ammeter and voltmeter correctly positioned or \( R \) connected to ohmmeter with no other connections  
+\- Method to determine \( t \) (of a few milliseconds), e.g. use (storage) oscilloscope or current/voltage sensor connected to datalogger/computer  
+\- Method to determine \( A \), e.g. micrometer/calipers to determine diameter of coil and \( A = \frac{\pi d^2}{4} \)  
+
+3. Method of analysis  
+\- Plot a graph of \( t \) against \( \frac{1}{R} \) (allow \( \log t \) against \( \log R \))  
+\- Relationship valid if a straight line passing through the origin is produced (allow gradient = –1 for graph of \( \log t \) against \( \log R \))  
+\- \( K = \frac{\text{gradient} \times L}{A N^2} \)  
+
+4. Additional detail including safety considerations  
+\- Open switch/switch off (high voltage) circuit before changing the resistor/touching components or ensure no bare wires/use shrouded connectors  
+\- Wear (insulating) gloves to prevent electric shock/electrocution  
+\- Keep \( A \) and \( L \) constant  
+\- Use ruler/calipers to measure \( L \)  
+\- Repeat measurements of diameter in different directions/at points along the coil and average  
+\- Method to determine \( R \), e.g. \( R = \frac{V}{I} \) linked to correct circuit diagram for ammeter/voltmeter method or measure resistance using ohmmeter  
+\- Repeat experiment for each value of \( R \) and average \( t \)  
+\- Method to determine \( t \): use of time-base from oscilloscope explained or use of time axis of output from data logger/computer explained  
+\- Use smaller values of \( R \) to increase \( I \)  
+\- Reduce \( L \) or increase \( N \) or increase \( A \) to increase \( t \)","1 A student investigates the current in a coil and a resistor connected in series, as shown in Fig. 1.1.
+
+\begin{figure}[h]
+\centering
+\caption*{Fig. 1.1}
+\begin{circuitikz}
+\draw (0,0) to[battery1, l=high-voltage d.c.] (0,2) -- (2,2) to[closing switch] (4,2) -- (4,0) to[L, l=coil] (2,0) to[R, l=$R$] (0,0);
+\end{circuitikz}
+\end{figure}
+
+The student connects a high-voltage d.c. power supply and a switch across the series combination. When the switch is closed, it takes time \(t\) for the current in the resistor of resistance \(R\) to reach a maximum value. The time \(t\) is a few milliseconds. There are a number of different unmarked resistors available.
+
+It is suggested that the relationship between \(t\) and \(R\) is  
+\[
+t = \frac{KN^2A}{LR},
+\]  
+where \(N\) is the number of turns of wire on the coil, \(A\) is the cross-sectional area of the coil, \(L\) is the length of the coil, and \(K\) is a constant.
+
+Design a laboratory experiment to test the relationship between \(t\) and \(R\). Explain how your results could be used to determine a value for \(K\).  
+
+In your account you should pay particular attention to:  
+- the procedure to be followed  
+- the measurements to be taken  
+- the control of variables  
+- the analysis of the data  
+- any safety precautions to be taken."
+36,"1. **Defining the problem**  
+   - \( d \) is the independent variable and \( V \) is the dependent variable or vary \( d \) and measure \( V \). (1 mark)  
+   - Keep \( A \) (area of overlap of plates) constant. (1 mark)  
+
+2. **Methods of data collection**  
+   - Labelled diagram including:  
+     - Circuit with voltmeter in parallel with capacitor.  
+     - Capacitor and voltmeter connected to plates (no power supply during discharge).  
+     - Correct symbols for capacitor and voltmeter. (1 mark)  
+   - Method to charge plates (e.g., separate circuit with power supply or switches). (1 mark)  
+   - Use calipers/micrometer to measure \( d \) or spacer thickness. (1 mark)  
+   - Use ruler to measure lengths for \( A = \text{length} \times \text{breadth} \). (1 mark)  
+
+3. **Method of analysis**  
+   - Plot graph of \( \frac{1}{V} \) against \( d \) or \( d \) against \( \frac{1}{V} \). (1 mark)  
+   - Determine \( K = \frac{C \times \text{y-intercept}}{\text{gradient} \times A} \) or equivalent. (1 mark)  
+   - Determine \( W = \frac{1}{\text{y-intercept}} \) or equivalent. (1 mark)  
+
+4. **Additional detail (safety/controls/measurements)**  
+   - Use gloves/insulation to prevent electric shock. (1 mark)  
+   - Keep initial p.d. or charge constant. (1 mark)  
+   - Method to measure capacitance \( C \). (1 mark)  
+   - Use switches in circuit. (1 mark)  
+   - Discharge capacitor between experiments. (1 mark)  
+   - Repeat measurements of \( d \) and \( V \), averaging results. (1 mark)  
+   - Insulate plates or use non-conductive supports. (1 mark)  
+   - Use high voltage or small capacitance for better readings. (1 mark)  
+   - Check linearity of graph to validate relationship. (1 mark)","1 Two parallel metal plates, each of area \( A \), are separated by a small distance \( d \), as shown in Fig. 1.1.  
+\begin{center}  
+area \( A \)  
+metal plates  
+\( d \)  
+Fig. 1.1 (not to scale)  
+\end{center}  
+The plates are initially charged using a power supply.  
+The plates are then connected to an uncharged capacitor. The potential difference \( V \) across the capacitor is measured.  
+It is suggested that \( V \) is related to \( d \) by the relationship  
+\[  
+\frac{W C d}{V K A} = 1  
+\]  
+where \( C \) is the capacitance of the capacitor, and \( K \) and \( W \) are constants.  
+Plan a laboratory experiment to test the relationship between \( V \) and \( d \).  
+Draw a diagram showing the arrangement of your equipment.  
+Explain how the results could be used to determine values for \( K \) and \( W \).  
+In your plan you should include:  
+- the procedure to be followed  
+- the measurements to be taken  
+- the control of variables  
+- the analysis of the data  
+- any safety precautions to be taken.  
+
+\vspace{2cm}  
+**Diagram**"
+37,"1 Defining the problem  
+- \( d \) is the independent variable and \( V \) is the dependent variable or vary \( d \) and measure \( V \)  
+- keep \( A \) or area (of overlap) of plates constant  
+
+Methods of data collection  
+- labelled diagram of workable experiment including:  
+  - circuit diagram with voltmeter connected in parallel with the capacitor  
+  - capacitor and voltmeter connected to the metal plates with no power supply in discharge part of the circuit  
+  - correct symbols for capacitor and voltmeter  
+- method to charge parallel plates, e.g. separate circuit diagram showing plates connected to a d.c. power supply or combined circuit with switches and d.c. power supply  
+- use calipers to measure \( d \)  
+  or  
+  use micrometer/calipers to measure thickness of spacers  
+- use rule(r) to measure lengths to determine \( A \) and \( A = \text{length} \times \text{breadth} \)  
+
+Method of analysis  
+- plot a graph of \( \frac{1}{V} \) against \( d \) or equivalent (e.g. \( d \) against \( \frac{1}{V} \))  
+- \( K = \frac{y\text{-intercept} \times C}{\text{gradient} \times A} \) or \( K = \frac{C}{W} \)  
+  (for \( d \) against \( \frac{1}{V} \): \( K = -\frac{y\text{-intercept} \times C}{A} \))  
+- \( W = \frac{1}{y\text{-intercept}} \)  
+  (for \( d \) against \( \frac{1}{V} \): \( W = -\frac{\text{gradient}}{y\text{-intercept}} \) or \( W = \frac{\text{gradient} \times C}{AK} \))  
+
+Additional detail including safety considerations  
+- use gloves to prevent electric shock or do not touch metal plates to avoid shocks  
+- keep the initial p.d. across plates or initial charge constant  
+- method to determine the value of \( C \), e.g. description of an experiment to measure p.d. or current against time during discharge through a resistor  
+- method of operation of circuit(s) using switch(es)  
+- description of method to fully discharge capacitor, e.g. between experiments, short-circuit the capacitor or use of switch in parallel with capacitor  
+- repeat measurements of \( d \) at different points across plates and average  
+- repeat measurements of \( V \) for same \( d \) and average \( V \)  
+- bottom plate resting on insulating material or top plate supported by strings  
+- use high voltage power supply to increase charge on plates  
+  or  
+  use a very small value of capacitance to increase voltmeter reading  
+- relationship valid if a straight line is produced (not passing through the origin)","1 Two parallel metal plates, each of area \( A \), are separated by a small distance \( d \), as shown in Fig. 1.1.  
+area \( A \)  
+metal plates  
+\( d \)  
+Fig. 1.1 (not to scale)  
+
+The plates are initially charged using a power supply. The plates are then connected to an uncharged capacitor. The potential difference \( V \) across the capacitor is measured.  
+
+It is suggested that \( V \) is related to \( d \) by the relationship  
+\[
+\frac{W}{Cd} = 1 + \frac{V}{KA}
+\]  
+where \( C \) is the capacitance of the capacitor, and \( K \) and \( W \) are constants.  
+
+Plan a laboratory experiment to test the relationship between \( V \) and \( d \).  
+Draw a diagram showing the arrangement of your equipment.  
+Explain how the results could be used to determine values for \( K \) and \( W \).  
+
+In your plan you should include:  
+- the procedure to be followed  
+- the measurements to be taken  
+- the control of variables  
+- the analysis of the data  
+- any safety precautions to be taken."
+38,"1 Defining the problem  
+\\(\theta\\) is the independent variable and \(t\) is the dependent variable or vary \(\theta\) and measure \(t\)  
+keep \(d\) constant  
+
+Methods of data collection  
+labelled diagram of workable experiment including:  
+- plane supported by stand / support  
+- stand/support on bench/floor/horizontal surface  
+- minimum of two labels from cube, cylinder, (inclined) plane, method of support, bench/floor/horizontal surface, pulley, string  
+
+diagram showing method to measure \(d\), e.g.:  
+- clamped vertical rule near cylinder  
+- drawn rule on plane used to measure \(d\)  
+- distance \(d\) marked on plane and rule used to determine \(d\)  
+
+use a protractor to measure \(\theta\)  
+or  
+use a rule(r) to measure appropriate lengths for a trigonometric calculation  
+
+use a timer/stop-watch to measure \(t\) or light gates connected to a timer to measure \(t\)  
+
+Method of Analysis  
+plot a graph of \(\frac{1}{t^2}\) against \(\sin\theta\) or equivalent (e.g. \(\sin\theta\) against \(\frac{1}{t^2}\))  
+\(H = \frac{2d(A + B)}{A} \times \text{gradient}\)  
+\(K = -\frac{2d(A + B)}{A} \times \text{y-intercept}\)  
+
+Additional detail including safety considerations  
+D1 Safety precaution linked to falling cylinder, e.g. use of cushion/sand box  
+D2 Protractor correctly positioned on diagram  
+D3 Keep \(A\) and \(B\) constant  
+D4 Use a (top-pan) balance to measure \(A\) and \(B\)  
+D5 Correct positioning of light gates or video camera to determine \(t\)  
+D6 Method to release cylinder/cube  
+D7 Method to keep \(d\) constant as \(\theta\) changes  
+D8 Use large \(d\) to increase \(t\)  
+D9 Repeat measurements of \(t\) for the same \(\theta\)  
+D10 Relationship valid if a straight line is produced (not passing through the origin)","1 A wooden cube of mass \( A \) is placed on an inclined plane. The cube is attached to a cylinder of mass \( B \) using string that passes over a pulley, as shown in Fig. 1.1.  
+\begin{center}  
+pulley  
+string  
+cube  
+cylinder  
+plane  
+horizontal  
+surface  
+\( \theta \)  
+Fig. 1.1 (not to scale)  
+\end{center}  
+The angle between the plane and the horizontal surface is \( \theta \). Initially the cylinder is held at rest. The cylinder is released. The time for the cylinder to fall a distance \( d \) is \( t \).  
+
+It is suggested that \( t \) is related to \( \theta \) by the relationship  
+\[  
+\frac{2d}{t^2} = \frac{A H \sin \theta - K A}{A + B}  
+\]  
+where \( H \) and \( K \) are constants.  
+
+Plan a laboratory experiment to test the relationship between \( t \) and \( \theta \).  
+Draw a diagram showing the arrangement of your equipment.  
+Explain how the results could be used to determine values for \( H \) and \( K \).  
+
+In your plan you should include:  
+- the procedure to be followed  
+- the measurements to be taken  
+- the control of variables  
+- the analysis of the data  
+- any safety precautions to be taken.  
+
+Diagram"
+39,"**Mark Scheme**  
+
+Defining the problem  
+- \(\theta\) is the independent variable and \(t\) is the dependent variable or vary \(\theta\) and measure \(t\).  
+- Keep \(d\) constant.  
+
+Methods of data collection  
+- Labelled diagram of workable experiment including:  
+  - Plane supported by stand/support.  
+  - Stand/support on bench/floor/horizontal surface.  
+  - Minimum of two labels from cube, cylinder, (inclined) plane, method of support, bench/floor/horizontal surface, pulley, string.  
+- Diagram showing method to measure \(d\), e.g.:  
+  - Clamped vertical rule near cylinder.  
+  - Drawn rule on plane used to measure \(d\).  
+  - Distance \(d\) marked on plane and rule used to determine \(d\).  
+- Use a protractor to measure \(\theta\) or use a ruler to measure appropriate lengths for a trigonometric calculation.  
+- Use a timer/stop-watch to measure \(t\) or light gates connected to a timer to measure \(t\).  
+
+Method of Analysis  
+- Plot a graph of \(\frac{1}{t^2}\) against \(\sin\theta\) or equivalent (e.g. \(\sin\theta\) against \(\frac{1}{t^2}\)).  
+- \(H = \frac{2d(A+B)}{A} \times \text{gradient}\).  
+  (For \(\sin\theta\) against \(\frac{1}{t^2}\): \(H = \frac{2d(A+B)}{A \times \text{gradient}}\).)  
+- \(K = \frac{2d(A+B)}{A} \times \text{y-intercept}\).  
+  (For \(\sin\theta\) against \(\frac{1}{t^2}\): \(K = -H \times \text{y-intercept}\).)  
+
+Additional detail including safety considerations  
+- Safety precaution linked to falling cylinder, e.g. use of cushion/sand box.  
+- Protractor correctly positioned on diagram or appropriate trigonometric relationship for marked lengths.  
+- Keep \(A\) and \(B\) constant.  
+- Use a balance to measure \(A\) and \(B\).  
+- Correct positioning of light gates or video camera to determine \(t\).  
+- Method to release cylinder/cube, e.g. cube held by set square.  
+- Method to keep \(d\) constant as \(\theta\) changes.  
+- Method to increase \(t\), e.g. use large \(d\).  
+- Repeat measurements of \(t\) for the same \(\theta\) and average \(t\).  
+- Relationship valid if a straight line is produced (not passing through the origin).","1 A wooden cube of mass \( A \) is placed on an inclined plane. The cube is attached to a cylinder of mass \( B \) using string that passes over a pulley, as shown in Fig. 1.1.
+
+\begin{center}
+pulley \\
+string \\
+cube \\
+cylinder \\
+plane \\
+horizontal \\
+surface \\
+\( \theta \)
+\end{center}
+
+Fig. 1.1 (not to scale)
+
+The angle between the plane and the horizontal surface is \( \theta \). Initially the cylinder is held at rest. The cylinder is released. The time for the cylinder to fall a distance \( d \) is \( t \).
+
+It is suggested that \( t \) is related to \( \theta \) by the relationship  
+\[
+\frac{2d}{t^2} = \frac{A H \sin \theta - K A}{A + B}
+\]  
+where \( H \) and \( K \) are constants.
+
+Plan a laboratory experiment to test the relationship between \( t \) and \( \theta \). Draw a diagram showing the arrangement of your equipment. Explain how the results could be used to determine values for \( H \) and \( K \).
+
+In your plan you should include:  
+● the procedure to be followed  
+● the measurements to be taken  
+● the control of variables  
+● the analysis of the data  
+● any safety precautions to be taken.
+
+Diagram"
+40,"1. Defining the problem  
+Independent variable: \( t \), dependent variable: \( T_C \) or vary \( t \) and measure \( T_C \).  
+Keep \( T_R \) constant.  
+
+2. Methods of data collection  
+Labelled diagram including:  
+- Solid cylinder cooling  
+- Insulation surrounding cylinder  
+- Thermometer touching cylinder inside insulation  
+- Method to heat cylinder uniformly (e.g., oven/hot water)  
+- Method to determine \( t \) (e.g., stopwatch/data logger)  
+- Measure \( L \) (e.g., ruler) and \( d \) (e.g., calipers/micrometer).  
+
+3. Method of analysis  
+Plot \( \ln(T_C - T_R) \) against \( t \).  
+\( U = -\frac{mc \times \text{gradient}}{A} \).  
+\( Z = e^{\text{y-intercept}} \).  
+
+4. Additional detail including safety precautions  
+- Prevent burns (e.g., gloves/tongs).  
+- Constant insulation thickness.  
+- Measure \( m \) with balance.  
+- Ensure uniform initial temperature.  
+- Surface area \( A = \pi d L + \frac{\pi d^2}{2} \).  
+- Repeat \( d \) measurements for average.  
+- Determine \( c \) via \( c = \frac{\Delta E}{m \Delta \theta} \).  
+- Use joulemeter/IVt for \( \Delta E \).  
+- Average \( T_C \) with multiple sensors.  
+- Validate linearity (straight line with y-intercept = \( \ln Z \)).","1 Fig. 1.1 shows a small solid metal cylinder of mass \( m \), length \( L \) and diameter \( d \).
+
+\begin{center}
+\( L \)
+
+\( d \)
+
+Fig. 1.1
+\end{center}
+
+The cylinder is heated to a uniform temperature. The cylinder is then removed from the heat source and the cylinder is wrapped in an insulating material.
+
+The temperature of the room is \( T_R \). At time \( t \) after the cylinder starts to cool, the surface temperature of the cylinder is \( T_C \).
+
+It is suggested that \( T_C \) is related to \( t \) by the relationship  
+\[
+(T_C - T_R) = Z e^{-\frac{UA}{mc} t}
+\]  
+where \( A \) is the total surface area of the cylinder, \( c \) is the specific heat capacity of the metal, and \( U \) and \( Z \) are constants.
+
+Plan a laboratory experiment to test the relationship between \( T_C \) and \( t \).  
+Draw a diagram showing the arrangement of your equipment.  
+Explain how the results could be used to determine values for \( U \) and \( Z \).  
+
+In your plan you should include:  
+- the procedure to be followed  
+- the measurements to be taken  
+- the control of variables  
+- the analysis of the data  
+- any safety precautions to be taken."
+41,"1. Defining the problem  
+- \(t\) is the independent variable and \(T_C\) is the dependent variable or vary \(t\) and measure \(T_C\)  
+- keep \(T_R\) constant  
+
+2. Methods of data collection  
+- labelled diagram of workable experiment including:  
+  - solid cylinder cooling  
+  - insulation surrounding all of the cylinder  
+  - thermometer touching cylinder inside insulation  
+  - insulation and thermometer labelled  
+- method to heat the cylinder uniformly, e.g. place in oven/immerse in hot water or diagram showing cylinder in oven or hot water  
+- method to determine time \(t\), e.g. stopwatch or temperature sensor connected to a data logger  
+- method to measure \(L\) e.g. use a ruler/calipers/micrometer  
+- method to measure \(d\) e.g. use calipers/micrometer  
+
+3. Method of Analysis  
+- plot a graph of \(\ln(T_C - T_R)\) against \(t\)  
+- \(U = -\frac{mc \times \text{gradient}}{A}\)  
+- \(Z = e^{\text{y-intercept}}\)  
+
+4. Additional detail including safety considerations  
+- precaution to prevent burns or use of hot cylinder / oven / hot water e.g. use of gloves, use of tongs  
+- keep thickness of the insulating material constant (for each \(T_C\))  
+- method to measure \(m\), e.g. use a (top-pan) balance  
+- for water bath/oven methods, wait for initial temperature of the cylinder to become uniform or constant throughout the cylinder  
+- (surface) \(A = \pi dL + \frac{\pi d^2}{2}\) or \(\pi dL + 2\left(\frac{\pi d^2}{4}\right)\)  
+- repeat measurements of \(d\) along the length of the cylinder / in different directions and determine the average value of \(d\)  
+- description of how \(c\) is determined from a separate experiment by heating the cylinder using electrical heater and \(c = \frac{\Delta E}{m \Delta \theta}\)  
+- method of determining energy supplied to electrical heater to determine \(c\), e.g. use of joulemeter for \(\Delta E\) or electrical method using ammeter and voltmeter to determine \(IVt\)  
+- use several temperature sensors and determine the average \(T_C\)  
+- relationship valid if a straight line is produced (with y-intercept = \(\ln Z\))","1 Fig. 1.1 shows a small solid metal cylinder of mass \(m\), length \(L\) and diameter \(d\).  
+\begin{center}  
+\(L\)  
+\(d\)  
+Fig. 1.1  
+\end{center}  
+The cylinder is heated to a uniform temperature. The cylinder is then removed from the heat source and wrapped in an insulating material.  
+The temperature of the room is \(T_R\). At time \(t\) after the cylinder starts to cool, the surface temperature of the cylinder is \(T_C\).  
+It is suggested that \(T_C\) is related to \(t\) by the relationship  
+\[
+(T_C - T_R) = Z e^{-\frac{UA}{mc}t}
+\]  
+where \(A\) is the total surface area of the cylinder, \(c\) is the specific heat capacity of the metal, and \(U\) and \(Z\) are constants.  
+Plan a laboratory experiment to test the relationship between \(T_C\) and \(t\).  
+Draw a diagram showing the arrangement of your equipment.  
+Explain how the results could be used to determine values for \(U\) and \(Z\).  
+In your plan you should include:  
+- the procedure to be followed  
+- the measurements to be taken  
+- the control of variables  
+- the analysis of the data  
+- any safety precautions to be taken.  
+
+Diagram"
+42,"Defining the problem (3 marks)  
+P1 \(p\) is the independent variable or vary \(p\). [1]  
+P2 \(A\) is the dependent variable or determine \(A\) for different \(p\). [1]  
+P3 Keep the incident amplitude constant (allow volume of sound or power/intensity output). [1]  
+
+Methods of data collection (5 marks)  
+M1 Labelled diagram of a workable arrangement including source of sound – glass window – detector of sound. [1]  
+M2 Method of measuring pressure. Use bourdon gauge/manometer or pressure gauge. [1]  
+M3 Method of reducing pressure. Use (vacuum) pump to withdraw air from glass window. [1]  
+M4 Method of measuring amplitude. Measure amplitude from oscilloscope. [1]  
+M5 Perform experiment in quiet room. [1]  
+
+Method of analysis (2 marks)  
+A1 Appropriate quantities plotted i.e. \(A^2\) against \(p\); or \(\lg A\) against \(\lg p\) or \(A\) against \(\sqrt{p}\). [1]  
+A2 Relationship to be correct i.e. graph is a straight line through the origin. [1]  
+
+Safety considerations (1 mark)  
+S1 Relevant safety precaution related to either the use of glass or intensity of sound, [1] e.g. wear ear defenders, switch on sound source for short period of time. Protection (goggles/safety screen) in case glass breaks.  
+
+Additional detail (4 marks).  
+D1/2/3/4 Relevant points might include: [4]  
+Method of ensuring that output from speaker is constant.  
+Method of reducing sound reflections from e.g. foam/speaker \& microphone close to glass.  
+Window perpendicular to sound source.  
+Detail explaining use of oscilloscope to measure amplitude.  
+Difficulty in measuring amplitude at small pressures/use a loud incident source.  
+Control (or monitoring) of one additional variable e.g. temperature, frequency, distances.  
+Allow time for the temperature/pressure between the glass to stabilise.  
+Discussion of attenuation in air/frame/glass.","1 Double glazing can be used for sound insulation. Double-glazed windows consist of two panes of glass with air in the space between them. Manufacturers reduce the air pressure in the space between the panes of glass to reduce the amplitude of sound transmitted through the window.  
+
+It is suggested that the amplitude \(A\) of sound transmitted through a double-glazed window is related to the air pressure \(p\) in the space between the panes by the equation  
+\[
+A = k p
+\]  
+where \(k\) is a constant.  
+
+Fig. 1.1 shows a laboratory model of a double-glazed window. It consists of two panes of glass. There is a tube connected to the space between the two panes so that air may be removed.  
+
+Design a laboratory experiment to investigate whether \(A\) is related to \(p\) as indicated in the above equation when \(p\) is reduced. You should draw a diagram showing the arrangement of your equipment. In your account you should pay particular attention to  
+(a) the procedure to be followed,  
+(b) how the air pressure between the panes of glass would be measured,  
+(c) how the amplitude of the sound would be measured,  
+(d) the control of variables,  
+(e) how the data would be analysed,  
+(f) any safety precautions that you would take.  
+
+Diagram"
+43,"(a)  
+P1: Independent variable: \(d\) (vary \(d\))  
+P2: Dependent variable: \(R\)  
+P3: Control variable: Keep light source output constant (constant current/voltage/power)  
+
+(b)  
+M1: Diagram shows LDR circuit + independent light source  
+M2: Diagram shows ruler/measurement of \(d\)  
+M3: Correct circuit for measuring \(R\) (voltmeter + ammeter/potential divider/ohmmeter)  
+M4: Method to determine \(R\) (e.g., \(R = \frac{V}{I}\), ohmmeter, potential divider equation)  
+M5: Perform experiment in dark room/tube  
+
+(c)  
+A1: Plot \(\log R\) vs. \(\log d\)  
+A2: Verify straight-line graph (gradient \(n\), intercept \(\log k\))  
+
+(d)  
+S1: Avoid direct eye exposure to bright light/use safety glasses  
+
+(e)  
+D1: Measure \(d\) with ruler/tape (fixed orientation between LDR and light source)  
+D2: Maintain fixed LDR-light source alignment (e.g., optical bench/clamps)  
+D3: Use appropriate current range/ammeter sensitivity  
+D4: Monitor light source output (e.g., check voltage/current stability)","1 A student wishes to investigate how the resistance \(R\) of a light-dependent resistor varies with the distance \(d\) from an intense light source.  
+It is believed that the relationship between \(R\) and \(d\) is  
+\[
+R = kd^n
+\]  
+where \(k\) and \(n\) are constants.  
+
+Design a laboratory experiment to test the above relationship. The light-dependent resistor has a resistance of \(100\ \Omega\) when it is in bright light and a resistance of \(500\ \text{k}\Omega\) when no light falls on it.  
+
+You should draw a diagram showing the arrangement of your equipment. In your account you should pay particular attention to  
+(a) the procedure to be followed,  
+(b) the measurements that would be taken,  
+(c) the control of variables,  
+(d) how the data would be analysed,  
+(e) any safety precautions that you would take.  
+[15]"
+44,"1 Planning (15 marks)  
+Defining the problem (3 marks)  
+P1 \( f \) is the independent variable and \( V \) is the dependent variable or vary \( f \) and measure \( V \). [1]  
+P2 Keep the current in coil X constant. [1]  
+P3 Keep the number of turns on coil Y/area of coil Y constant. [1]  
+
+Methods of data collection (5 marks)  
+M1 Two independent coils labelled X and Y. [1]  
+M2 Alternating power supply/signal generator connected to coil X in a workable circuit. [1]  
+M3 Coil Y connected to voltmeter/c.r.o. in a workable circuit. [1]  
+M4 Use c.r.o. to determine period/frequency or read off signal generator. [1]  
+M5 Method to keep current constant in coil X: adjust signal generator/use of rheostat. [1]  
+
+Method of analysis (2 marks)  
+A1 Plot a graph of \( V \) against \( f \). [1]  
+A2 Relationship valid if straight line through origin. [1]  
+
+Safety considerations (1 mark)  
+S1 Reference to hot coils – switch off when not in use/use gloves/do not touch coils. [1]  
+
+Additional detail (4 marks)  
+D1/2/3/4 Relevant points include:  
+1. Use large current in coil X/large number of coils on coil Y.  
+2. Use iron core.  
+3. Detail on measuring emf e.g. height × y-gain.  
+4. Avoid other alternating magnetic fields.  
+5. Measure frequency from c.r.o. period.  
+6. Use ammeter/c.r.o. to check current.  
+7. Use insulated wire.  
+8. Keep coils in same relative positions. [4]  
+
+[Total: 15]","1 Fig. 1.1 shows a coil (coil X).  
+A student winds another coil (coil Y) tightly around coil X.  
+A changing e.m.f. in coil X induces an e.m.f. in coil Y.  
+The student wishes to investigate how the e.m.f. \(V\) in coil Y depends on the frequency \(f\) of the current in coil X.  
+It is suggested that \(V\) is directly proportional to \(f\).  
+
+Design a laboratory experiment to investigate the suggested relationship. You should draw a diagram showing the arrangement of your equipment. In your account you should pay particular attention to  
+(a) the procedure to be followed,  
+(b) the measurements to be taken,  
+(c) the control of variables,  
+(d) the analysis of the data,  
+(e) the safety precautions to be taken.  
+
+[15]"
+45,"1 Planning (15 marks)  
+**Defining the problem (3 marks)**  
+P1 c, d or A is the independent variable and R is the dependent variable or vary c, d or A and measure R. [1]  
+P2 If c varied then (t and) d or A kept constant, if d varied then (t and) c or A kept constant, if A varied then c or d kept constant. [1]  
+P3 Keep temperature constant. [1]  
+
+**Methods of data collection (5 marks)**  
+M1 Circuit diagram to measure resistance. [1]  
+M2 Use micrometer screw gauge to measure d or t. (Allow digital or vernier callipers) [1]  
+M3 Measure c with a ruler/metre rule. [1]  
+M4 Method of making contact with the strip e.g. use electrodes of at least same dimension as c or d or t or conducting paint methods. [1]  
+M5 Method to determine resistance. [1]  
+
+**Method of analysis (2 marks)**  
+A1 Plot a graph of R against c, \( \frac{1}{d} \) or \( \frac{1}{A} \) depending on orientation. [1]  
+A2 \( \rho = A \times \text{gradient} \) or \( \rho = \frac{t \times \text{gradient}}{c} \). [1]  
+
+**Safety considerations (1 mark)**  
+S1 Reference sharp edges or cutting metals, e.g. wear gloves. [1]  
+
+**Additional detail (4 marks)**  
+D1/2/3/4 Relevant points:  
+1. Insulate aluminium strip.  
+2. Take many readings of t or d and average.  
+3. Use a protective resistor/circuit designed to reduce current.  
+4. Rearrange equation to determine graph using c, d and t or A.  
+5. Determine typical resistance of aluminium strip.  
+6. Likely meter range of ammeter/voltmeter/ohmmeter.  
+7. Detail on cutting strip e.g. mark using set square. [4]","1 A student wishes to determine the resistivity of aluminium.
+
+The resistivity \( \rho \) of a conductor is defined as \( \rho = \frac{RA}{l} \) for a conductor of resistance \( R \), cross-sectional area \( A \) and length \( l \).
+
+Fig. 1.1 shows the typical dimensions of a strip of aluminium of lengths \( c \), \( d \) and \( t \). The resistivity of aluminium is about \( 10^{-8} \, \Omega\text{m} \).
+
+\( t = 1 \, \text{mm} \)  
+\( d \, 1 \, \text{cm} \)  
+\( c \, 1 \, \text{m} \)
+
+Fig. 1.1 (not to scale)
+
+Design a laboratory experiment to determine the resistivity of aluminium using this strip. The usual apparatus of a school laboratory is available, including a metal cutter.
+
+You should draw a diagram showing the arrangement of your equipment. In your account you should pay particular attention to
+
+(a) the procedure to be followed,  
+(b) the measurements to be taken,  
+(c) the control of variables,  
+(d) the analysis of the data,  
+(e) the safety precautions to be taken.
+
+[15]"
+46,"1 Planning (15 marks)  
+**Defining the problem (3 marks)**  
+P \( r \) is the independent variable, \( B \) is the dependent variable or vary \( r \) and measure \( B \). [1]  
+P Keep the number of turns on the coil(s) constant. [1]  
+*Do not accept same coil.*  
+P Keep the current in the coil constant. [1]  
+
+**Methods of data collection (5 marks)**  
+M1 Diagram showing coil and labelled Hall probe positioned in the centre of a coil.  
+*Solenoids will not be credited.* [1]  
+M2 Circuit diagram for coil connected to a (d.c.) power supply. [1]  
+M3 Connect Hall probe to voltmeter/c.r.o.  
+*Allow galvanometer but do not allow ammeter.* [1]  
+M4 Measure diameter or radius with a ruler/vernier callipers. [1]  
+M5 Method to locate centre of coil.  
+*e.g. determine max \( V_H \); cross rules; projection* [1]  
+
+**Method of analysis (2 marks)**  
+A Plot a graph of \( B \) against \( 1/r \) [allow \( \lg B \) against \( \lg r \) or other valid graph] [1]  
+A Relationship is valid if the graph is a straight line passing through the origin  
+*[if \( \lg \)-\( \lg \) then straight line with gradient = –1 (ignore reference to y-intercept)]* [1]  
+
+**Safety considerations (1 mark)**  
+S Precaution linked to (large) heating of coil, e.g. switch off when not in use to avoid overheating coil; do not touch coil because it is hot. [1]  
+
+**Additional detail (4 marks)**  
+D Relevant points might include [4]  
+1 Use large current/large number of turns to create a large magnetic field.  
+2 Use of rheostat to keep current constant in coil.  
+3 Monitor constant current with ammeter to check current is constant.  
+4 Hall probe at right angles to direction of magnetic field/plane of coil.  
+5 Reasoned method to keep Hall probe in constant orientation (e.g. use of set square, fix to rule, optical bench or equivalent).  
+6 \( B \) is proportional to voltage across Hall probe/calibrate Hall probe in a known magnetic field.  
+7 Repeat experiment with Hall probe reversed and average.  
+8 Repeat measurement for \( r \) or \( d \) and average.  
+*Do not allow vague computer methods.*  
+
+[Total: 15]","1 A current-carrying coil produces a magnetic field.  
+It is suggested that the strength \( B \) of the magnetic field at the centre of a flat circular coil is inversely proportional to the radius \( r \) of the coil.  
+Design a laboratory experiment that uses a Hall probe to test the relationship between \( B \) and \( r \). You should draw a diagram showing the arrangement of your equipment.  
+In your account you should pay particular attention to  
+(a) the procedure to be followed,  
+(b) the measurements to be taken,  
+(c) the control of variables,  
+(d) the analysis of the data,  
+(e) the safety precautions to be taken.  
+[15]"
+47,"1 Planning (15 marks)  
+**Defining the problem (3 marks)**  
+P A is the independent variable and \(V\) is the dependent variable or vary \(A\) and measure \(V\). [1]  
+P Keep the number of turns on coil Y or coil X constant. [1]  
+P Keep the current in coil X constant. [1]  
+
+**Methods of data collection (5 marks)**  
+M1 Two independent coils labelled X and Y; coil Y wound over coil X. [1]  
+M2 Alternating power supply/signal generator connected to coil X. [1]  
+M3 Coil Y connected to voltmeter/c.r.o. in a workable circuit. [1]  
+M4 Measure diameter/radius/lengths with a ruler/vernier callipers. [1]  
+M5 Method to determine area. [1]  
+
+**Method of analysis (2 marks)**  
+A Plot a graph of \(V\) against \(A\). [1]  
+A Relationship valid if straight line through origin. [1]  
+
+**Safety considerations (1 mark)**  
+S Precaution linked to (large) current in coil/heating, e.g. switch off when not in use to avoid overheating coil; do not touch coil because it is hot. [1]  
+
+**Additional detail (4 marks)**  
+1 Use large current in coil X/large number of turns/high frequency a.c. to produce measurable e.m.f.  
+2 Detail on measuring e.m.f., e.g. height × y-gain on CRO.  
+3 Keep frequency of power supply constant.  
+4 Use of rheostat to keep current constant in coil X.  
+5 Monitor with a.c. ammeter.  
+6 Avoid other alternating magnetic fields.  
+7 Repeat measurement for \(r\) or \(d\) or lengths and average.  
+Do not allow vague computer methods.","1 A changing e.m.f. in a coil can induce an e.m.f. in another coil.  
+Fig. 1.1 shows a coil (coil X), which is wound on a cardboard tube.  
+Coil X has cross-sectional area \(A\).  
+A student winds another coil (coil Y) tightly around coil X. The student wishes to investigate how the e.m.f. \(V\) in coil Y depends on \(A\).  
+It is suggested that \(V\) is directly proportional to \(A\).  
+
+Design a laboratory experiment to investigate the suggested relationship. You should draw a diagram showing the arrangement of your equipment. In your account you should pay particular attention to  
+(a) the procedure to be followed,  
+(b) the measurements to be taken,  
+(c) the control of variables,  
+(d) the analysis of the data,  
+(e) the safety precautions to be taken.  
+[15]"

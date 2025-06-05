@@ -1,0 +1,75 @@
+deployment:
+  replicas: 1
+  updateStrategy: {}
+
+  image:
+    repository: "ghcr.io/predibase/lorax"
+    tag: "latest"
+
+  args:
+    - name: "--model-id"
+      value: "mistralai/Mistral-7B-Instruct-v0.1"
+    - name: "--max-input-length"
+      value: "512"
+    - name: "--max-total-tokens"
+      value: "1024"
+    - name: "--max-batch-total-tokens"
+      value: "4096"
+    - name: "--max-batch-prefill-tokens"
+      value: "2048"
+    - name: "--eager-prefill"
+      value: "false"
+    - name: "--compile"
+      value: "" # --complie does not take a second argument
+
+  env:
+    # Your huggingface hub token. Required for some models such as the llama-2 family.
+    - name: "HUGGING_FACE_HUB_TOKEN"
+      value: ""
+
+  resources:
+    limits:
+      nvidia.com/gpu: "1"
+    requests:
+      nvidia.com/gpu: "1"
+
+  livenessProbe:
+    {}
+    # failureThreshold: 240
+    # httpGet:
+    #   path: /health
+    #   port: http
+    #   scheme: HTTP
+    # initialDelaySeconds: 5
+    # periodSeconds: 5
+    # successThreshold: 1
+    # timeoutSeconds: 1
+
+  readinessProbe:
+    {}
+    # failureThreshold: 600
+    # httpGet:
+    #   path: /health
+    #   port: http
+    #   scheme: HTTP
+    # initialDelaySeconds: 5
+    # periodSeconds: 5
+    # successThreshold: 1
+    # timeoutSeconds: 1
+
+  nodeSelector: {}
+  tolerations: []
+  additionalLabels: {}
+  additionalPodLabels: {}
+
+  additionalAnnotations: {}
+  additionalPodAnnotations: {}
+  affinity: {}
+
+  priorityClassName: ""
+
+service:
+  name: "lorax"
+  serviceType: ClusterIP
+  port: 80
+  additionalLabels: {}
